@@ -2,6 +2,8 @@
 
 A guide to free online tools for collaboration, sharing, documentaion, discussion, and other forms of communication.
 
+There are 22 tools in this guide so I will not be adding screenshots of the various menu settings. However, I will have links to online articles and YouTube videos and channels on how to use the tools.
+
 ## Tools covered
 
 Chat:
@@ -15,6 +17,7 @@ Project management:
 
 1. **Asana**: manage, collaborate, communicate, and organize tasks and projects
 1. **Monday.com** - a CRM with collaboration features, timeline views, calendar views, time tracking features
+1. **Trello**: manage any type of project, workflow, or task tracking
 
 File sharing & Cloud storage:
 
