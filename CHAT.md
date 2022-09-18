@@ -211,28 +211,49 @@ As your workspace grows, you may find that it ends up cluttered with a lot of ch
 
 ## Zoom
 
-- ddd
+LINKS:
 
-Zoom resource link 1[^8]: []()
+[Getting started guide for new users](https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users)
 
-RESEARCH LINKS:
+-
 
-- https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users
-- https://support.zoom.us/hc/en-us/articles/214629443-Getting-started-with-the-Zoom-web-client
-- https://support.zoom.us/hc/en-us/articles/4423309349133-Using-Zoom-on-a-laptop
-- https://biz30.timedoctor.com/how-to-use-zoom/
-- https://teambuildinghub.com/blog/how-to-use-zoom/
+[Getting started with the Zoom web client](https://support.zoom.us/hc/en-us/articles/214629443-Getting-started-with-the-Zoom-web-client)
+
+-
+
+[Using Zoom on a laptop](https://support.zoom.us/hc/en-us/articles/4423309349133-Using-Zoom-on-a-laptop)
+
+-
+
+[How To Use Zoom: A Step-by-Step Guide](https://biz30.timedoctor.com/how-to-use-zoom/)
+
+-
+
+[The Complete Guide on How To Use Zoom 2022](https://teambuildinghub.com/blog/how-to-use-zoom/)
+
+-
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ## Google hangouts (SKIP?)
 
-RESEARCH LINKS:
+LINKS:
 
-- https://support.google.com/chat/answer/9854901?hl=en
-- https://blog.google/products/workspace/hangouts-to-chat/
-- https://gigworker.com/how-to-use-google-hangouts/
-- https://techboomers.com/t/what-is-google-hangouts
+[Learn about the switch from Google Hangouts to Google Chat](https://support.google.com/chat/answer/9854901?hl=en)
+
+-
+
+[Upgrading from Google Hangouts to Google Chat](https://blog.google/products/workspace/hangouts-to-chat/)
+
+-
+
+[Stay Connected By Learning How to Use Google Hangouts](https://gigworker.com/how-to-use-google-hangouts/)
+
+-
+
+[What Google Hangouts is and How to Talk Today](https://techboomers.com/t/what-is-google-hangouts)
+
+-
 
 - CONS: Lacks many of the features of video-only platforms like Zoom, Limited number of users on calls, Only one person can share a screen at a time, On the negative side, although it’s great that it can be used on lots of different devices, it’s a little inconsistent in terms of how it functions on different devices, which can be a bit of a pain
 

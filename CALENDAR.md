@@ -80,9 +80,22 @@ LINKS:
 
 RESEARCH LINKS:
 
-- https://calendly.com/blog/getting-started-guide
-- https://www.alphr.com/what-is-calendly/
-- https://www.dignited.com/98161/what-is-calendly-and-how-do-you-get-started/
-- https://www.makeuseof.com/calendly-tips-scheduling/
-- https://wheelhousedigital.com/how-to-use-calendly/
-- https://savvycal.com/articles/calendly/
+[Getting started with Calendly](https://calendly.com/blog/getting-started-guide)
+
+-
+
+[What Is Calendly And How Does It Work](https://www.alphr.com/what-is-calendly/)
+
+-
+
+[What Is Calendly and How Do You Get Started?](https://www.dignited.com/98161/what-is-calendly-and-how-do-you-get-started/)
+
+-
+
+[How to Use Calendly to Schedule Meetings Automatically](https://wheelhousedigital.com/how-to-use-calendly/)
+
+-
+
+[The Ultimate Guide to Calendly](https://savvycal.com/articles/calendly/)
+
+-

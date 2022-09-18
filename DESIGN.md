@@ -14,18 +14,30 @@ That is about the extent of collaboration with the free plan but it still offers
 
 LINKS:
 
+The best links I found are from Figma's channel on YouTube. Here are the best videos:
+
+1. [Figma For Beginners: Explore ideas (1/4)](https://youtu.be/dXQ7IHkTiMM)
+1. [Figma For Beginners: Create designs (2/4)](https://youtu.be/wvFd-z7jSaA)
+1. [Figma For Beginners: Build prototypes (3/4)](https://youtu.be/lTIeZ2ahEkQ)
+
 ## InVision
 
-RESEARCH LINKS:
+LINKS: I'm only interested in using Figma so I did not do any research on InVision, but check out their [YouTube channel playlists](https://www.youtube.com/c/Invisionappinc/playlists) for tutorials on the tool.
 
 ## Sketch
 
 Sketch is only free if you are a student or teacher
 
-RESEARCH LINKS:
+LINKS:
 
-- https://www.sketch.com/blog/2021/05/05/get-started-with-real-time-collaboration/
-- https://www.sketch.com/blog/2021/11/02/get-started-sketch-workspace/
-- https://www.sketch.com/blog/sketch-tutorials/
-- https://webdesign.tutsplus.com/articles/how-to-collaborate-with-your-team-using-sketch--cms-25170
-- https://www.designernews.co/stories/81597-best-way-to-work-collaborative-in-sketch
+[How to get started with real-time collaboration](https://www.sketch.com/blog/2021/05/05/get-started-with-real-time-collaboration/)
+
+-
+
+[Get started with your Sketch Workspace](https://www.sketch.com/blog/2021/11/02/get-started-sketch-workspace/)
+
+-
+
+[How to Collaborate With Your Team Using Sketch](https://webdesign.tutsplus.com/articles/how-to-collaborate-with-your-team-using-sketch--cms-25170)
+
+-
