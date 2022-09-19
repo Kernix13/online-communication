@@ -1,6 +1,8 @@
 # Design collaboration tools
 
 1. Figma
+1. Lunacy
+1. Penpot
 1. Sketch
 1. InVision
 
@@ -19,6 +21,23 @@ The best links I found are from Figma's channel on YouTube. Here are the best vi
 1. [Figma For Beginners: Explore ideas (1/4)](https://youtu.be/dXQ7IHkTiMM)
 1. [Figma For Beginners: Create designs (2/4)](https://youtu.be/wvFd-z7jSaA)
 1. [Figma For Beginners: Build prototypes (3/4)](https://youtu.be/lTIeZ2ahEkQ)
+
+## Lunacy
+
+LINKS:
+
+- [Lunacy 8.5: Work in a team like a pro](https://blog.icons8.com/articles/lunacy-8-5-work-in-a-team-like-a-pro/)
+- [Lunacy Review | Best Free Design Software of 2022](https://www.techwhoop.com/lunacy-review/)
+- [How to migrate from Figma to Lunacy](https://icons8.medium.com/how-to-migrate-from-figma-to-lunacy-a6de9d967f96)
+
+## Penpot
+
+LINKS:
+
+- [Open source design collaboration with Penpot](https://opensource.com/article/21/12/open-source-design-penpot)
+- [Penpot: an open-source Prototyping and design platform for teams](https://medevel.com/penpot/)
+- [FREE OPEN SOURCE UI PROTOTYPING PLATFORM FOR DESIGNERS: PENPOT](https://www.ilovefreesoftware.com/25/webware/free-open-source-ui-prototyping-platform-for-designers-penpot.html)
+- [Penpot on GitHub](https://github.com/penpot/penpot)
 
 ## InVision
 

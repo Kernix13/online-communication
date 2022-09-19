@@ -46,5 +46,7 @@ Calendar, reminders:
 Design:
 
 1. **Figma**: The best IMO
+1. **Lunacy**
+1. **Penpot**
 1. **InVision**
 1. **Sketch**: Free only for students and educators
