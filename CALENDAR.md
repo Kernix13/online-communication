@@ -78,24 +78,95 @@ LINKS:
 
 ## Calendly
 
-RESEARCH LINKS:
+It looks like the free basic plan is devoid of the features you would want or need. It also seems to just be for meetings.
+
+LINKS:
 
 [Getting started with Calendly](https://calendly.com/blog/getting-started-guide)
 
--
+- **Start sharing your links**: When you create a Calendly account, you'll see three ready-to-share event types: a 15-minute meeting, a 30-minute meeting, and a 60-minute meeting. Everything is customizable, including name and description, your availability, and the event’s duration
+- **Enhance your event types**: Each of your event types has its own dedicated scheduling link so you can have the perfect one ready for every meeting you host. Having the right event types ready will make scheduling more efficient and your meetings more effective:
+  - Automatically generate and include web conference details for every meeting
+  - Add buffers before or after your event so you’ll have time between meetings
+  - Send email or text reminders to ensure your invitees show up on time and prepared
+  - Ask your invitees questions that enable you to host better meetings
+- **Get Calendly wherever you work**: use the Chrome extension
 
 [What Is Calendly And How Does It Work](https://www.alphr.com/what-is-calendly/)
 
--
+- Calendly Basic Plan: You can link only one calendar to your Basic account, and create only a single event type for your clients to book.
+- You won’t be able to leverage follow-ups or customize your notifications. However, you and your clients will still receive automatic event notifications so you don’t have to deal with rescheduling and cancellation manually.
+- You can also brand your booking page and customize your booking link in the Basic version
 
 [What Is Calendly and How Do You Get Started?](https://www.dignited.com/98161/what-is-calendly-and-how-do-you-get-started/)
 
--
+- You connect the Google Calendar so that they are in sync and do not conflict with your existing schedules
+- Calendly has 4 major tabs:
+  - Event types: This shows you the current events you have created and those available to you depending on the version you are using
+  - Scheduled Events: you will see all the scheduled events connected with your account
+  - Workflows: Automate all the work you do around events, such as text messages when events are booked, email reminders before events, and more. You can start with a commonly used workflow or create your own
+  - Routing forms: Routing forms let you gather information from someone upfront and direct them to a specific booking page or website based on their responses
+
+### Creating An Event
+
+- Define the type of event you want people to schedule with you. This includes the duration, location, and availability. In the freemium version that I am using, you are only able to have 15 minutes only. If you wish to have more time, you must upgrade.
+- By default, someone can connect with you in an anonymous 15 min event. You can also create a new event with details
+  - Click “New Event Type” under the “Event Types” tab
+  - Choose from these two basic options that are available
+  - Give it a title
+  - Select the location - different options
+  - Enter the rest of the details > Next
+  - customize hours
+  - You can leave the rest at default and select “Next” to finalize
+
+Your Basic free subscription allows 1 event type.
 
 [How to Use Calendly to Schedule Meetings Automatically](https://wheelhousedigital.com/how-to-use-calendly/)
 
--
+### How to set up Calendly
+
+- Once you’ve logged in, on the first screen you see, you’ll be able to set your calendar URL. This is the web address that you’ll be able to send to people so they can see your calendar
+- Next, you want to integrate Calendly with your calendar. It’ll ask you to give permission to view and edit your calendar so that it can add events. Click “allow”.
+- Then, you’ll want to set up your availability
+- Next, you’ll need to set up a new event type. A 30 minute meeting is typically a good amount to set up, but you’ll want to adjust it depending on how long your meetings normally take
+- You can also set up a “round robin” style invite, which allows people to add multiple invitees to the meeting
+- You’ll want to set up the format of the meeting. Is it Zoom? Is it just a phone call? If it’s a videoconferencing platform like Zoom, you’ll be prompted to integrate Zoom and Calendly
+- You can also set how far into the future it’s possible to set up events
+- After you’ve set up your meeting, you’ll be prompted to input the questions you’d like to ask people who are booking meetings with you
+- You have the option to make questions required or optional
+- Then, you’ll be able to set the autoresponders. Typically, this will mean one email that’s sent out as soon as the meeting is booked, and another email that’s sent out as a reminder as the meeting gets closer
+
+### Getting Calendly implemented on your website
+
+- To integrate it on your website, Calendly will give you some code that you can copy and paste wherever you like on your site
 
 [The Ultimate Guide to Calendly](https://savvycal.com/articles/calendly/)
 
--
+- Sync to your personal or work calendars (optional). Create event types. Choose from a 15-minute, 30-minute, or 60-minute meeting, or adjust the timeframes to fit your needs
+- Edit the event’s name and description and your availability
+- Send the link to a recipient(s)
+- Recipients can choose one of the event types you’ve created and select a time with you
+
+### How to Set Up Calendly
+
+- When you log into Calendly, you’ll see an Account tab at the top right corner of the page.
+- Clicking on this provides you with everything you need to set up your account and billing information, as well as to share your link or invite other people to the account
+- Start by clicking on Account Settings. This is where you can change your profile information, add a profile picture, update your link, and change your login settings. This is also where you can update your language, date and time formats, country, and time zone
+- Calendar Connections is the third part of the Account Settings tab. Clicking on this takes you to a list of calendars that Calendly can integrate with. Click on the Connect button for the calendar you want to integrate, and complete the setup process
+- In the Users section, you can start building your organization. The active section allows you to invite users and teach them how to use the team scheduling features
+- Clicking on Share Your Link triggers a pop-up box that allows you to copy your link, email it, or add it to your website
+- In the apps tab, you’ll find information about Calendly’s mobile apps, desktop application, and browser extensions
+- Calendly does offer options to integrate your calendars via WordPress plugins
+- Calendly offers a published API for any developer using the Calendly system. To use the API, you’ll need your authentication token
+
+> Calendly is a meeting scheduling application. It does not work as a standalone calendar. However, it does integrate with several calendar applications to make it easier for you to schedule meetings quickly and efficiently
+
+### Basic plan
+
+The basic account is (and always will be) free but offers limited features. The basic plan allows you to connect to other calendars such as Google, Office 365, Outlook, and iCloud. Users on the free plan can create unlimited one-off meetings, customize booking links, and add the application to their website.
+
+### Advanced features
+
+Calendly offers integrations with:
+
+- API & Webhooks, Google Analytics, PayPal, Salesforce, Stripe, Zapier, Zoom, LinkedIn messaging, Slack, ...

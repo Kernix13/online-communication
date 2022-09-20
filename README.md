@@ -19,12 +19,12 @@ Project management:
 1. **Monday.com** - a CRM with collaboration features, timeline views, calendar views, time tracking features
 1. **Trello**: manage any type of project, workflow, or task tracking
 
-File sharing & Cloud storage:
+Cloud storage:
 
 1. **Dropbox**: cloud storage and syncing services
 1. **Google drive**: file storage and sharing
-1. **OneDrive**
 1. **IDrive**
+1. _OneDrive_
 
 File sharing:
 
