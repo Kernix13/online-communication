@@ -114,7 +114,9 @@ Here are the links where I got the text and steps listed above:
 
 ## Slack
 
-Slack is a channel-based messaging platform; a workplace messaging tool through which you can send messages and files. This means that Slack is an instant messaging tool. These add ons are not important for using Slack as the main feature is all about communicating with colleagues.
+Slack is a channel-based messaging platform; a workplace messaging tool through which you can send messages and files. It's meant for teams and workplaces can be used across multiple devices and platforms, and is equipped with robust features that allow you to not only chat one-on-one with associates but also in groups.
+
+This means that Slack is an instant messaging tool. These add ons are not important for using Slack as the main feature is all about communicating with colleagues.
 
 There are two types of chat in Slack: direct message or DM (person-to-person chat), and channels (group chat). Although they can involve up to eight persons, DMs are always private
 
@@ -178,6 +180,16 @@ Here are notes from the Slack website:
 
 ### Create channels
 
+Channels are where you can browse and join public channels. For a private channel, you must be added to it by a member of that channel. You can include clients or vendors or external partners with shared channels. Channels help organize conversations and topics.
+
+Channels provide a dedicated space to write messages and add files. With everything related to a particular topic, project, or team in dedicated channels, you can scroll up to see the conversation.
+
+- channels with a `#` before the name means it is a public channel – lock icon means it’s private
+- Right-click a channel to star it which moves it to the top – notification options also – mute ot leave a channel
+- Click Channel browser at the top of your left sidebar of the 3 vert dots to access it – other options there are: All unreads, All Dms, Saved Items, File Browser, People & User Groups, Apps
+- Select a channel from the list – Click Join Channel |
+- To leave a Channel: more button > Leave [channel name] | Channel header: quick view |
+
 - Select the + located to the right of the main Channels heading
 - Select Create a channel in the drop down menu
 - Enter a name and description for your channel, then select Create
@@ -230,32 +242,19 @@ As your workspace grows, you may find that it ends up cluttered with a lot of ch
 
 ### Miscellaneous
 
-Best Slack Apps and Integrations: Markup Hero, Trello, HubSpot, Mailchimp
+Other things to consider:
+
+- **Best Slack Apps and Integrations**: Markup Hero, Trello, HubSpot, Mailchimp
+- Privacy Settings...
+- Prevent Outside Sites From Seeing Your Traffic
+- Slack Notifications, Themes, and Other Preferences, Messages & Media
+- Sidebar: access your conversations – highlighted if you are mentioned
 
 Resource links:
 
 - **EXCELLENT**: [What Is the Slack App](https://www.simplilearn.com/tutorials/slack-tutorial/what-is-slack-app-uses-to-improve-productivity)
 - [How to Use Slack for Work](https://www.lifewire.com/how-to-use-slack-for-work-4800366)
 - [How to set up a Slack account](https://www.theverge.com/22905189/slack-account-set-up-messages-channels-work-remote-office)
-
-Clean this section up later:
-
-> STOPPED EDITS HERE
-
-- Privacy Settings
-- Prevent Outside Sites From Seeing Your Traffic
-- Slack Integrations
-- Slack Notifications, Themes, and Other Preferences, Messages & Media
-- What is Slack: way to communicate with your team - It's meant for teams and workplaces can be used across multiple devices and platforms, and is equipped with robust features that allow you to not only chat one-on-one with associates but also in groups – it’s a channel based msg platform – communications are sorted by channel, conversation or topic -
-- You create a workspace then invite people to it – channels is where all the communication occurs
-- Sidebar: access your conversations – highlighted if you are mentioned
-- Channels: you can browse and join public channels in their workspace. For a private channel, you must be added to it by a member of that channel – can include clients or vendors or external partners with shared channels – channels help organize conversations and topics
-- channels with a # before the name means it is a public channel – lock icon means it’s private
-- right-click a channel to star it which moves it to the top – notification options also – mute ot leave a channel
-- Click Channel browser at the top of your left sidebar of the 3 vert dots to access it – other options there are: All unreads, All Dms, Saved Items, File Browser, People & User Groups, Apps
-- Select a channel from the list – Click Join Channel |
-- To leave a Channel: more button > Leave [channel name] | Channel header: quick view |
-- Channels provide a dedicated space to write messages and add files. With everything related to a particular topic, project, or team in dedicated channels, you can scroll up to see the conversation
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
