@@ -1,9 +1,11 @@
 # Best Free Calendars
 
-Calendar
+Calendars are used to schedule events or to-do items. As a communication tool, they can also be used to invite team members to a text chat (Discord, Slack), voice chat (Discord), or Vvideo chat (Zoom, Google Spaces). You are also able to set remimders of any/all items in your calendar.
 
 1. Google calendar: meeting reminders, daily agenda, tasks
-1. Calendly
+1. [Calendly](#)
+
+<div id="back-to-top"></div>
 
 ## Google calendar
 
@@ -75,6 +77,8 @@ LINKS:
 - **Create a team calendar**: Create a separate calendar that your team members can access. The creator can control what members can see, whether they can edit the calendar and more
 - **Effective scheduling process for team meetings**: use the _Find a time_ and _Suggested times_ options
 - **Integrate Google Calendar with your time tracking tool**
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ## Calendly
 
@@ -170,3 +174,5 @@ The basic account is (and always will be) free but offers limited features. The 
 Calendly offers integrations with:
 
 - API & Webhooks, Google Analytics, PayPal, Salesforce, Stripe, Zapier, Zoom, LinkedIn messaging, Slack, ...
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>

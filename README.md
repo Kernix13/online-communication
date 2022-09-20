@@ -37,7 +37,7 @@ Code repositories and git:
 1. **GitLab**
 1. **BitBucket**
 
-Calendar, reminders:
+Calendars:
 
 1. **Google calendar**: meeting reminders, daily agenda, tasks
 1. **Calendly**: The only other free calendar worth mentioning
