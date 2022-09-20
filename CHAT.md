@@ -26,7 +26,7 @@ Discord tends to be used on a personal basis whereas Slack is more commonly used
    1. [Slack Chat Rooms](#slack-chat-rooms)
    1. [Create channels](#create-channels)
    1. [Send Direct Messages in Slack](#send-direct-messages-in-slack)
-   1. [Send a Group Direct Message](#send a-group-direct-message)
+   1. [Send a Group Direct Message](#send-a-group-direct-message)
    1. [How to place calls](#how-to-place-calls)
    1. [Hide Channels and Direct Messages](#hide-channels-and-direct-messages)
    1. [Miscellaneous](#miscellaneous)
