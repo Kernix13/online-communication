@@ -390,6 +390,8 @@ You can ask, upvote, and comment on questions if these features are enabled by t
 
 Other sections on this doc page: 1) Start a cloud recording, 2) Add and launch polls, 3) Manage participants, 4) Use Mask Background
 
+<a href="https://biz30.timedoctor.com/how-to-use-zoom/" align="center">How To Use Zoom: A Step-by-Step Guide</a>
+
 [How To Use Zoom: A Step-by-Step Guide](https://biz30.timedoctor.com/how-to-use-zoom/)
 
 - Zoom makes it super easy for anyone to set up and conduct a virtual face-to-face meeting
@@ -407,7 +409,9 @@ Other sections on this doc page: 1) Start a cloud recording, 2) Add and launch p
 - Join Using a Meeting ID: Open the Zoom app and click on the “Join” icon
 - Paste the Meeting ID in the box provided, add your display name for the meeting and click on the “Join” button
 
-[The Complete Guide on How To Use Zoom 2022](https://teambuildinghub.com/blog/how-to-use-zoom/)
+<br>
+
+**[The Complete Guide on How To Use Zoom 2022](https://teambuildinghub.com/blog/how-to-use-zoom/)**
 
 Fast Facts
 
