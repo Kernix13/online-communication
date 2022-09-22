@@ -31,7 +31,15 @@ Discord tends to be used on a personal basis whereas Slack is more commonly used
    1. [Hide Channels and Direct Messages](#hide-channels-and-direct-messages)
    1. [Miscellaneous](#miscellaneous)
 1. [Zoom](#zoom)
+   1. [Getting started guide](#getting-started-guide)
+   1. [Zoom web client](#zoom-web-client)
+   1. [Step-by-Step Guide](#step-by-step-guide)
+   1. [Complete guide to zoom](#complete-guide-to-zoom)
 1. [Google Hangouts](#google-hangouts)
+   1. [Upgrading to google chat](#upgrading-to-google-chat)
+   1. [How to Use Google Chat](#how-to-use-google-chat)
+   1. [How to activate google chat](#how-to-activate-google-chat)
+   1. [Google Chat REST API](#google-chat-rest-api)
 
 ## Discord
 
@@ -260,22 +268,24 @@ Resource links:
 
 ## Zoom
 
-<h3 align="center"><a href="https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users"><strong>Getting started guide for new users</strong></a>
+<h3 id="getting-started-guide" align="center"><a href="https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users"><strong>Getting started guide for new users</strong></a>
 </h3>
 
 Also check out the section _How to download the Zoom client_.
 
-### How to sign in to your Zoom account on the web
+#### How to sign in to your Zoom account on the web
 
 - You can sign in to [your Zoom account](https://zoom.us/signin). Once you're logged in, use the panel on the left side to navigate the Zoom web portal. You can update your profile, schedule a meeting, edit your settings, ...
 
-### Join an existing account
+#### Join an existing account
 
 - If you are being invited to an existing account, you will receive an email from Zoom. Once you receive this email, click Accept the Request.
 - Accepting the invite to the other account will transfer your profile details (name, profile picture, time zone, etc), scheduled meetings and webinars, cloud recordings, IM history, contacts, and settings, but will not transfer any reports.
 - It is advised that you access and download any reports you may need before accepting the invite. You have 30 days to accept the invite before it expires
 
-### Schedule your first meeting
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Schedule your first meeting
 
 There are many ways to schedule a meeting, including the Zoom web portal, through the Zoom client, or with one of our extensions or plugins. Here are some basic instructions for scheduling your first meeting
 
@@ -285,11 +295,13 @@ There are many ways to schedule a meeting, including the Zoom web portal, throug
 1. Choose the date and time for your meeting.
 1. (Optional) Select any other settings you would like to use. Click Save.
 
-### How to start a test meeting
+#### How to start a test meeting
 
 - You can join a test Zoom meeting to familiarize yourself with the Zoom and test your microphone/speakers before joining a Zoom meeting. Visit zoom.us/test and click Join.
 
-### How to start your first meeting as the host
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### How to start your first meeting as the host
 
 As the meeting host, there are several ways you can start your meeting. Your upcoming meetings will be listed in the Meetings tab of your Zoom desktop client or mobile app. You can click Start by the meeting name. You can also start your meetings from the Zoom web portal
 
@@ -298,20 +310,24 @@ As the meeting host, there are several ways you can start your meeting. Your upc
 1. Under Upcoming, click Start next to the meeting you want to start.
 1. The Zoom client should launch automatically to start the meeting.
 
-### How to invite others to join your meeting
+#### How to invite others to join your meeting
 
 - [Inviting others to join your meeting](https://support.zoom.us/hc/en-us/articles/201362183) is as simple as sharing the invitation or join link. You can do this after scheduling your meeting by clicking Copy the Invitation.
 
-### How to join another user's meeting
+#### How to join another user's meeting
 
 There are many ways to join a meeting, but the easiest way is to click the join link that the meeting host provided. You can also click Join in your Zoom client and enter the meeting ID. You may also be prompted for a meeting passcode, so keep the meeting invite information available
 
-<h3 align="center"><a href="https://support.zoom.us/hc/en-us/articles/214629443-Getting-started-with-the-Zoom-web-client"><strong>Getting started with the Zoom web client</strong></a>
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<br>
+
+<h3 id="zoom-web-client" align="center"><a href="https://support.zoom.us/hc/en-us/articles/214629443-Getting-started-with-the-Zoom-web-client"><strong>Getting started with the Zoom web client</strong></a>
 </h3>
 
 The Zoom web client allows joining a Zoom meeting or webinar in a web browser without downloading any plugins or software. By default, participants joining through the web client do not need to be signed in to a Zoom account, but the host can [require authentication](https://support.zoom.us/hc/en-us/articles/360037117472).
 
-### Join a meeting or webinar
+#### Join a meeting or webinar
 
 1. Locate the meeting invite link from your email or calendar invitation.
 1. Click the join link to join the meeting.
@@ -321,7 +337,9 @@ The Zoom web client allows joining a Zoom meeting or webinar in a web browser wi
 1. If prompted, sign in to your Zoom account. If you do not have a Zoom account, create a new account.
 1. You will be prompted to enter your name and the meeting password if it was not included in the join link. Click Join.
 
-### Start a scheduled meeting or webinar
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Start a scheduled meeting or webinar
 
 1. Sign in to the Zoom web portal.
 1. In the navigation menu, click Meetings or Webinars.
@@ -332,18 +350,20 @@ The Zoom web client allows joining a Zoom meeting or webinar in a web browser wi
 
 Note: If you don't see this option, make sure to enable Join From Browser. Same for the next section.
 
-### Start an instant meeting
+#### Start an instant meeting
 
 1. Sign in to the Zoom web portal.
 1. Click HOST A MEETING in the top-right corner next to your profile picture, then select an option to start a video-on, video-off, or screen share only meeting.
 1. If prompted to open the Zoom desktop client, click Cancel.
 1. Click the Join from your Browser link.
 
-### View video
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### View video
 
 You can view participants' videos in Gallery view and Speaker view, as well as up to 9 specific participants videos, if the host spotlights someone. You can also stop all incoming video, which can be useful when you have limited internet bandwidth or to avoid mental fatigue.
 
-### Invite others
+#### Invite others
 
 1. Click Participants in the meeting controls.
 1. In the lower-left corner of the Participants panel, click Invite.
@@ -354,7 +374,9 @@ You can view participants' videos in Gallery view and Speaker view, as well as u
    1. Call Out: If you have an audio conferencing plan, you can call out to participants by phone. Enter the name you would like to display for them, select their country, enter their phone number, choose if you want them to hear a greeting or require them to press 1 before being connected, and click Invite.
    1. Room System: If you have the Cloud Room Connector add-on, view the information for an H.323 or SIP room system to join the call or invite them by calling out to their IP address.
 
-### Share your screen
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Share your screen
 
 1. Click Share Screen located in your meeting toolbar.
 1. Select the screen you want to share then click Share. If you are using multiple monitors, you will see each screen.
@@ -369,7 +391,9 @@ You can view participants' videos in Gallery view and Speaker view, as well as u
    1. A floating notification bar appears on top of your browser. Click Stop sharing to stop sharing your screen. Chick Hide to remove the floating notification bar.
 1. (Optional) Click the upwards arrow beside the Share screen button to change who has access to screen sharing.
 
-### Request remote control
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Request remote control
 
 While another participant is screen sharing, you can remotely control their screen.
 
@@ -379,7 +403,7 @@ While another participant is screen sharing, you can remotely control their scre
 1. Click inside the screen share to start controlling the participant's screen.
 1. To stop remote control, click Give Up Remote Control at the top.
 
-### Use webinar Q&A
+#### Use webinar Q&A
 
 You can ask, upvote, and comment on questions if these features are enabled by the host.
 
@@ -390,27 +414,33 @@ You can ask, upvote, and comment on questions if these features are enabled by t
 
 Other sections on this doc page: 1) Start a cloud recording, 2) Add and launch polls, 3) Manage participants, 4) Use Mask Background
 
-<h3 align="center"><a href="https://biz30.timedoctor.com/how-to-use-zoom/"><strong>How To Use Zoom: A Step-by-Step Guide</strong></a>
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<br>
+
+<h3 id="step-by-step-guide" align="center"><a href="https://biz30.timedoctor.com/how-to-use-zoom/"><strong>How To Use Zoom: A Step-by-Step Guide</strong></a>
 </h3>
 
 - Zoom makes it super easy for anyone to set up and conduct a virtual face-to-face meeting
 - Zoom is a cloud-based video conferencing tool that lets you host virtual one-on-one or team meetings easily. With powerful audio, video and collaboration features, this remote communication tool connects remote team members with each other.
 
-### How to Set Up a Zoom Meeting
+#### How to Set Up a Zoom Meeting
 
 1. Log in to your Zoom account
 1. Hover your cursor over the “HOST A MEETING” link at the top-right corner of the screen, and select one of the following options: 1. With Video On, 2. With Video Off, 3. Screen Share Only
 1. The website will redirect you to the Zoom app and start a meeting. Here, you can edit meeting settings or copy the “Invitation URL” that you send to the attendees
 
-### How to Join a Zoom Meeting
+#### How to Join a Zoom Meeting
 
 - Join Using a Meeting Link: If you have a join link for a meeting, just click on it or paste it into your web browser to join the meeting
 - Join Using a Meeting ID: Open the Zoom app and click on the “Join” icon
 - Paste the Meeting ID in the box provided, add your display name for the meeting and click on the “Join” button
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 <br>
 
-<h3 align="center"><a href="https://teambuildinghub.com/blog/how-to-use-zoom/">The Complete Guide on How To Use Zoom 2022</a>
+<h3 id="complete-guide-to-zoom" align="center"><a href="https://teambuildinghub.com/blog/how-to-use-zoom/">The Complete Guide on How To Use Zoom 2022</a>
 </h3>
 
 Fast Facts
@@ -425,6 +455,8 @@ Fast Facts
 - Zoom allows users to use a custom background in order to hide what’s actually going on behind the screen.
 - This options is perfect for those working from home with kids or other people around!
 - Using the backgrounds work best against a blank wall. There are also downloadable filters to add a fun, personal touch to videos
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 #### Joining A Meeting
 
@@ -448,7 +480,7 @@ As Meeting Host, You Can:
 - Pick breakout room groups
 - Choose whether or not hosts and participants have access to a video feed
 
-<br>
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 #### The Chat Feature
 
@@ -462,9 +494,8 @@ SKIP SECTIONS: 1. Reactions + Hand Raising, 2. Breakout Rooms, 3. Recording, 4. 
 
 ## Google hangouts
 
-LINKS:
-
-[Learn about the switch from Google Hangouts to Google Chat](https://support.google.com/chat/answer/9854901?hl=en)
+<h3 align="center"><a href="https://support.google.com/chat/answer/9854901?hl=en"><strong>Learn about the switch from Google Hangouts to Google Chat</strong></a>
+</h3>
 
 Google Hangouts is being upgraded to Google Chat at the end of 2022 for those who haven’t already upgraded. Some people may have already moved to Google Chat and may no longer be able to use Google Hangouts on some platforms.
 
@@ -472,13 +503,13 @@ Google Hangouts is being upgraded to Google Chat at the end of 2022 for those wh
 
 TAKEAWAY: Wait if you do not have an account for Google Hangouts/Chat.
 
-### How to access your data in Google Chat
+#### How to access your data in Google Chat
 
 > N/A if you are not even set up yet (like me)
 
 For most people, conversations are automatically migrated from Hangouts to Chat, so it’s easy to pick up where you left off. You can also search for those messages in Chat.
 
-### Determine whether you use Google Hangouts or Google Chat
+#### Determine whether you use Google Hangouts or Google Chat
 
 **Google Hangouts**:
 
@@ -493,11 +524,13 @@ For most people, conversations are automatically migrated from Hangouts to Chat,
   - Download the Google Chat Progressive Web App.
 - On mobile, use the Google Chat or Gmail app for iOS or Android.
 
-### Learn about the additional functionality in Google Chat
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Learn about the additional functionality in Google Chat
 
 Google Chat easily integrates across Google Workspace and provides a modern, feature-rich experience that includes:
 
-Enhanced expression:
+**Enhanced expression**:
 
 - React to messages with emojis that feature skin-tone selections.
 - Respond with Smart Replies.
@@ -505,25 +538,161 @@ Enhanced expression:
 - Tag specific people with @mentions.
 - Search for and share GIFs.
 
-Better collaboration:
+**Better collaboration**:
 
 - Edit Docs, Slides, or Sheets with side-by-side editing to make it easier to collaborate while you continue a conversation.
 - Use spaces, a dedicated place for topic-based collaboration.
 
 SKIP SECTION: Learn about the differences between Google Chat & Google Hangouts
 
-[Upgrading from Google Hangouts to Google Chat](https://blog.google/products/workspace/hangouts-to-chat/)
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
-> STOPPED HERE
+<br>
 
-[Stay Connected By Learning How to Use Google Hangouts](https://gigworker.com/how-to-use-google-hangouts/)
+<h3 id="upgrading-to-google-chat" align="center"><a href="https://blog.google/products/workspace/hangouts-to-chat/"><strong>Upgrading from Google Hangouts to Google Chat</strong></a>
+</h3>
 
--
+> In October 2020, we announced Google Chat would be available for everyone. Since then, people could continue using Hangouts or upgrade to Google Chat — available as its own app or within Gmail
 
-[What Google Hangouts is and How to Talk Today](https://techboomers.com/t/what-is-google-hangouts)
+#### Google Chat features
 
--
+- users can edit Docs, Slides or Sheets with side-by-side editing, making it easier to collaborate while continuing the conversation
+- Google Chat also includes [Spaces](https://cloud.google.com/blog/products/workspace/enabling-hybrid-work-with-google-workspace), a dedicated place for topic-based collaboration. Groups and teams can share ideas, work on documents, and manage files and tasks, all from a single location
+- And, the [new integrated view in Gmail](https://support.google.com/mail/answer/11555490) makes it easier to use Chat alongside your Gmail inbox, Spaces, and Meet
 
-- CONS: Lacks many of the features of video-only platforms like Zoom, Limited number of users on calls, Only one person can share a screen at a time, On the negative side, although it’s great that it can be used on lots of different devices, it’s a little inconsistent in terms of how it functions on different devices, which can be a bit of a pain
+#### Moving from Hangouts to Chat and the future of Chat
+
+- people who use Hangouts in Gmail on the web will be upgraded to Chat in Gmail
+- Google Chat offers a modern and integrated experience in Google Workspace
+- more features like direct calling, in-line threading in Spaces and the ability to share and view multiple images
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<br>
+
+<h3 id="how-to-use-google-chat" align="center"><a href="https://www.lifewire.com/how-to-use-google-chat-6363527"><strong>How to Use Google Chat</strong></a>
+</h3>
+
+> You can send messages from a web browser, desktop or mobile apps
+
+Google Chat is the company's new web messaging service and a replacement for Google Hangouts
+
+#### How to Set Up Google Chat
+
+- Setting up Google Chat is as simple as logging in to the service or app with your Google account
+- you can use Google Chat in a web browser without installing any software. Using it in a web browser is identical to the desktop app
+
+#### How to Send a Message on Google Chat for PC or Mac
+
+1. Select the + icon above your Chat contact list
+1. Type in the name or Gmail address of the contact you want to message and select the contact once they appear
+1. Type your message in the chat box
+1. Press Enter on your keyboard. Alternatively, select the Send icon with a mouse
+
+You can also use the steps above to start a group message or create a space. After selecting the + icon, choose Start group conversation or Create space instead of searching for a contact.
+
+Google Chat has a chronological history of recent Chat conversations on app's left sidebar. Use this to quickly open any recent Chat conversation.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### What Are Spaces, and How Are They Different from Chat
+
+- Google Chat supports two forms of messaging: direct messages and Spaces
+- Direct messages are person-to-person web messaging
+- Messages are shared only with the contacts you include in the message
+- Spaces function more like a chat and productivity service like Slack
+- Users can join or leave without changing the history of messages shown. Spaces supports threaded conversations, shared files, and tasks
+- You can start a Google Space by selecting Create Space instead of searching for a contact. Alternatively, you can view, start, and join Spaces by tapping the Spaces icon
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### FAQS
+
+> What does idle mean in Google Chat?
+
+If you see an orange bubble next to someone's name, it means that they are idle, or they haven't been active in Gmail or Google Chat for at least 5 minutes.
+
+> How do I delete a Google Chat room?
+
+Open the Google Chat Space you want to delete. At the top of the window next to the Space name, select the down-arrow > Delete > Delete. You can only delete Spaces you created.
+
+> How do I chat in Google Docs?
+
+To chat in Google Docs, share the document with the person you want to collaborate with. Then, select Show Chat in the upper-right corner (it looks like the silhouette of a person with a chat bubble next to it).
+
+> How do I turn off history in Google Chat?
+
+At the top of the chat conversation, tap the down arrow to open Conversation Options. Then, select Turn off history.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<br>
+
+<h3 id="how-to-activate-google-chat" align="center"><a href="https://www.theverge.com/22533079/google-chat-rooms-gmail-how-to"><strong>How to activate and use Google Chat</strong></a>
+</h3>
+
+> In mid-2021, Google pit itself against Slack by taking two of the features from its corporate Workplace app suite — Chat and Spaces (previously called Rooms) — and integrating them into its standard Gmail app
+
+Google Chat allows you to hold chat sessions with friends and groups of friends either on an informal or formal basis. The former can be done just between two people or between several in what Google calls a group conversation. The latter is done via a separate area that Google currently calls a Space
+
+- Chat is simply a way for two or more people to chat together without any formalities
+- A space, on the other hand, is for more long-term conversations. Each space has its own name, remains available for people to leave and rejoin, will send out notifications, and can share files.
+- It’s for work projects, party planning, or any other activity where you want to keep the conversation going over the course of days, weeks, or longer
+
+#### Activate Chat on a browser
+
+1. Go to your Gmail account and go to settings (the gear icon in the upper-right corner)
+1. Select “See all settings”
+1. In the top menu, select “Chat and Meet”
+1. You have the choice of selecting “Google Chat,” “Classic Hangouts,” and “Off.” Assuming you want to try Chat, click on that.
+1. Usually, Chat will appear on the left side of your Gmail screen, but you can choose to have it appear on the right side instead
+1. By the way, “Chat and Meet” lets you hide the Meet section in Gmail if you want to
+1. Click on “Save Changes”
+
+- Instead of the Meet and Hangouts boxes that used to be on the left-hand side of your Gmail screen, you’ll now have a Chat box, a Spaces box, and a Meet box
+- Any contacts with whom you previously had chats with via Hangouts will appear in the new Chat box; click on their names, and a small pop-up window in the lower left will show you those previous chats
+- And note the button on the right of the search box that lets you choose to be active, away, or undisturbed; you can also type in your own status
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Begin a chat on the web
+
+1. To start a new Chat, click on the plus sign in the corners of the Chat or Spaces boxes. You’ll get a drop-down menu.
+1. If you want to just chat with a single person, type their name into the top field, and you will be taken into a small pop-up chat box. (You can maximize it if you want.)
+1. If you want to chat with more than one person, then select “Start group conversation.” You’ll then be able to list the people you want to chat with.
+1. The same menu also lets you start a space (more on that later), browse existing spaces, or search for message requests (in other words, search for previous requests for chats from other people).
+
+#### Create a Space
+
+1. On the web, go to the Chat box or the Space box on the left of Gmail and click on the plus sign. In the mobile app, tap on the Spaces icon.
+1. Select “Create space.”
+1. Create a space name and add the people you want to include. (If they’re not on your contact list, you can just type in their email address.)
+1. Click “Create.” You’ll be taken into the new space.
+1. The people who are invited will get an email with a link. When they click on the link, they will be shown the new space and given the opportunity to either join it or block it.
+1. To add a new message, type into the field at the bottom of the screen. Like Chat, a series of icons on the right of the field (on the web) or via the plus sign (on mobile) lets you add emoji, upload a file, add a file from Google Drive, start an audio or video meeting (which is essentially starting Google Meet), and schedule an event.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+### Google Chat REST API
+
+Check out [Use the Google Chat REST API](https://developers.google.com/chat/api/guides/rest-api).
+
+- The Google Chat REST API provides programmatic, RESTful access to Chat resources like messages, spaces, and attachments
+- To call the Google Chat REST API, authenticate with user or service account credentials
+
+```js
+spaces.create; // Creates a space.
+spaces.get; // Returns a space.
+spaces.list; // Lists spaces the app belongs to.
+spaces.members.create; // Adds a user or the invoking app to a space.
+spaces.members.get; // Returns a member.
+spaces.members.list; // Lists humans (not apps) that belong to the space.
+spaces.messages.create; // Creates a message.
+spaces.messages.delete; // Deletes a message.
+spaces.messages.get; // Returns a message.
+spaces.messages.update; // Updates a message.
+spaces.messages.attachments.get; // Gets an attachment
+media.download; // Gets the contents of an uploaded attachment
+```
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
