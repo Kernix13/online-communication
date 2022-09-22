@@ -3,7 +3,7 @@
 Calendars are used to schedule events or to-do items. As a communication tool, they can also be used to invite team members to a text chat (Discord, Slack), voice chat (Discord), or Vvideo chat (Zoom, Google Spaces). You are also able to set remimders of any/all items in your calendar.
 
 1. Google calendar: meeting reminders, daily agenda, tasks
-1. [Calendly](#)
+1. [Calendly](#calendly)
 
 <div id="back-to-top"></div>
 

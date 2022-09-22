@@ -264,37 +264,251 @@ LINKS:
 
 [Getting started guide for new users](https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users)
 
--
+Also check out the section _How to download the Zoom client_.
+
+### How to sign in to your Zoom account on the web
+
+- You can sign in to [your Zoom account](https://zoom.us/signin). Once you're logged in, use the panel on the left side to navigate the Zoom web portal. You can update your profile, schedule a meeting, edit your settings, ...
+
+### Join an existing account
+
+- If you are being invited to an existing account, you will receive an email from Zoom. Once you receive this email, click Accept the Request.
+- Accepting the invite to the other account will transfer your profile details (name, profile picture, time zone, etc), scheduled meetings and webinars, cloud recordings, IM history, contacts, and settings, but will not transfer any reports.
+- It is advised that you access and download any reports you may need before accepting the invite. You have 30 days to accept the invite before it expires
+
+### Schedule your first meeting
+
+There are many ways to schedule a meeting, including the Zoom web portal, through the Zoom client, or with one of our extensions or plugins. Here are some basic instructions for scheduling your first meeting
+
+1. Sign in to your Zoom web portal.
+1. Click Meetings.
+1. Click Schedule a Meeting.
+1. Choose the date and time for your meeting.
+1. (Optional) Select any other settings you would like to use. Click Save.
+
+### How to start a test meeting
+
+- You can join a test Zoom meeting to familiarize yourself with the Zoom and test your microphone/speakers before joining a Zoom meeting. Visit zoom.us/test and click Join.
+
+### How to start your first meeting as the host
+
+As the meeting host, there are several ways you can start your meeting. Your upcoming meetings will be listed in the Meetings tab of your Zoom desktop client or mobile app. You can click Start by the meeting name. You can also start your meetings from the Zoom web portal
+
+1. Sign in to your Zoom web portal.
+1. Click Meetings.
+1. Under Upcoming, click Start next to the meeting you want to start.
+1. The Zoom client should launch automatically to start the meeting.
+
+### How to invite others to join your meeting
+
+- [Inviting others to join your meeting](https://support.zoom.us/hc/en-us/articles/201362183) is as simple as sharing the invitation or join link. You can do this after scheduling your meeting by clicking Copy the Invitation.
+
+### How to join another user's meeting
+
+There are many ways to join a meeting, but the easiest way is to click the join link that the meeting host provided. You can also click Join in your Zoom client and enter the meeting ID. You may also be prompted for a meeting passcode, so keep the meeting invite information available
 
 [Getting started with the Zoom web client](https://support.zoom.us/hc/en-us/articles/214629443-Getting-started-with-the-Zoom-web-client)
 
--
+The Zoom web client allows joining a Zoom meeting or webinar in a web browser without downloading any plugins or software. By default, participants joining through the web client do not need to be signed in to a Zoom account, but the host can [require authentication](https://support.zoom.us/hc/en-us/articles/360037117472).
 
-[Using Zoom on a laptop](https://support.zoom.us/hc/en-us/articles/4423309349133-Using-Zoom-on-a-laptop)
+### Join a meeting or webinar
 
--
+1. Locate the meeting invite link from your email or calendar invitation.
+1. Click the join link to join the meeting.
+   If a pop-up window prompts you to open or install the Zoom desktop client, click Cancel.
+1. At the bottom of the page, click the Join from your Browser link.
+   Note: If you don't see this option, make sure to enable Join From Browser.
+1. If prompted, sign in to your Zoom account. If you do not have a Zoom account, create a new account.
+1. You will be prompted to enter your name and the meeting password if it was not included in the join link. Click Join.
+
+### Start a scheduled meeting or webinar
+
+1. Sign in to the Zoom web portal.
+1. In the navigation menu, click Meetings or Webinars.
+1. Click the meeting you want to start.
+1. Click Start this Meeting in the top-right corner.
+1. If prompted to open the Zoom desktop client, click Cancel.
+1. Click the Join from your Browser link.
+
+Note: If you don't see this option, make sure to enable Join From Browser. Same for the next section.
+
+### Start an instant meeting
+
+1. Sign in to the Zoom web portal.
+1. Click HOST A MEETING in the top-right corner next to your profile picture, then select an option to start a video-on, video-off, or screen share only meeting.
+1. If prompted to open the Zoom desktop client, click Cancel.
+1. Click the Join from your Browser link.
+
+### View video
+
+You can view participants' videos in Gallery view and Speaker view, as well as up to 9 specific participants videos, if the host spotlights someone. You can also stop all incoming video, which can be useful when you have limited internet bandwidth or to avoid mental fatigue.
+
+### Invite others
+
+1. Click Participants in the meeting controls.
+1. In the lower-left corner of the Participants panel, click Invite.
+1. The available options will depend on the available add-ons for your account, if you are the host, and if you are logged in.
+   1. Contacts: Invite Zoom contacts you already have established.
+   1. Zoom Rooms: Invite Zoom Rooms that are on your account.
+   1. Email: This will open up the options to send an email with your default email client, Gmail, Yahoo email, copy the URL, or copy the entire invitation.
+   1. Call Out: If you have an audio conferencing plan, you can call out to participants by phone. Enter the name you would like to display for them, select their country, enter their phone number, choose if you want them to hear a greeting or require them to press 1 before being connected, and click Invite.
+   1. Room System: If you have the Cloud Room Connector add-on, view the information for an H.323 or SIP room system to join the call or invite them by calling out to their IP address.
+
+### Share your screen
+
+1. Click Share Screen located in your meeting toolbar.
+1. Select the screen you want to share then click Share. If you are using multiple monitors, you will see each screen.
+   To share a specific application window, click the Window tab, select an application, then click Share.
+1. Notes:
+   1. When sharing an application, live changes made to a document may not appear for others. If you experience this issue, stop sharing and restart the share or share your entire screen to avoid this issue.
+   1. For Windows 10 users, if several applications are open, a limited number will be listed as an option to share. If the application you want to share is not listed, close unnecessary applications and try again.
+   1. When connected in the Chrome browser, you can even choose a specific Chrome tab to share.
+1. While screen sharing, you will have access to the following controls:
+   1. A notification at the top of your Zoom meeting window shows a preview of your shared screen. Click Pause Share to pause screen sharing.
+   1. Click Resume Share to start screen sharing again. You can also click Stop Share to stop sharing your screen.
+   1. A floating notification bar appears on top of your browser. Click Stop sharing to stop sharing your screen. Chick Hide to remove the floating notification bar.
+1. (Optional) Click the upwards arrow beside the Share screen button to change who has access to screen sharing.
+
+### Request remote control
+
+While another participant is screen sharing, you can remotely control their screen.
+
+1. While viewing a screen share, click View Options at the top, then click
+1. Request Remote Control.
+1. Click Request to confirm.
+1. Click inside the screen share to start controlling the participant's screen.
+1. To stop remote control, click Give Up Remote Control at the top.
+
+### Use webinar Q&A
+
+You can ask, upvote, and comment on questions if these features are enabled by the host.
+
+1. Click Q&A in the webinar controls.
+1. You'll have access to the following controls:
+   1. Type your question in the text box to ask a question.
+   1. If another participant has asked a question, click the thumbs up icon to upvote the question or click Comment. Questions are sorted based on the number of upvotes.
+
+Other sections on this doc page: 1) Start a cloud recording, 2) Add and launch polls, 3) Manage participants, 4) Use Mask Background
 
 [How To Use Zoom: A Step-by-Step Guide](https://biz30.timedoctor.com/how-to-use-zoom/)
 
--
+- Zoom makes it super easy for anyone to set up and conduct a virtual face-to-face meeting
+- Zoom is a cloud-based video conferencing tool that lets you host virtual one-on-one or team meetings easily. With powerful audio, video and collaboration features, this remote communication tool connects remote team members with each other.
+
+### How to Set Up a Zoom Meeting
+
+1. Log in to your Zoom account
+1. Hover your cursor over the “HOST A MEETING” link at the top-right corner of the screen, and select one of the following options: 1. With Video On, 2. With Video Off, 3. Screen Share Only
+1. The website will redirect you to the Zoom app and start a meeting. Here, you can edit meeting settings or copy the “Invitation URL” that you send to the attendees
+
+### How to Join a Zoom Meeting
+
+- Join Using a Meeting Link: If you have a join link for a meeting, just click on it or paste it into your web browser to join the meeting
+- Join Using a Meeting ID: Open the Zoom app and click on the “Join” icon
+- Paste the Meeting ID in the box provided, add your display name for the meeting and click on the “Join” button
 
 [The Complete Guide on How To Use Zoom 2022](https://teambuildinghub.com/blog/how-to-use-zoom/)
 
--
+Fast Facts
+
+- You do NOT need an account to use Zoom!
+- You can use Zoom on both a computer and a mobile device
+- Zoom is free to use, but there are paid options for more features!
+- With an account, you can personalize Zoom calls to your taste
+
+### Filters and Backgrounds
+
+- Zoom allows users to use a custom background in order to hide what’s actually going on behind the screen.
+- This options is perfect for those working from home with kids or other people around!
+- Using the backgrounds work best against a blank wall. There are also downloadable filters to add a fun, personal touch to videos
+
+### Joining A Meeting
+
+For both of these options, you do not need an account, or to be logged in
+
+- Clicking A Link: When you’re invited to a meeting, you can simply click the link under “Join Zoom Meeting” and you’ll access the meeting
+- Meeting ID: This is a specific numerical code that is sent to participants with the meeting invitation. You can use this to log into a meeting when prompted. It also comes with a passcode
+
+### Scheduling A Meeting
+
+To set up a meeting, you first need to create an account and log in. After that, click “Schedule” and follow the prompts from there.
+
+As Meeting Host, You Can:
+
+- Set the meeting date, time, and length
+- Automatically generate a meeting ID number or use a specific ID number
+- Determine when users can join a call
+- Allow participants to share their screens in a meeting
+- Choose which calendar the event gets automatically scheduled to
+- Determine group audio settings
+- Pick breakout room groups
+- Choose whether or not hosts and participants have access to a video feed
+
+### The Chat Feature
+
+- In meetings, participants can chat with the entire group or directly with one another.
+- If you would like, you can save in-meeting chats to your computer either manually or automatically.
+- If you save the chat locally to your computer, it will save any chats that you can see—those sent directly to you and those sent to everyone in the meeting or webinar.
+
+SKIP SECTIONS: 1. Reactions + Hand Raising, 2. Breakout Rooms, 3. Recording, 4. Virtual Escape Rooms, 5. Split Screen
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
-## Google hangouts (SKIP?)
+## Google hangouts
 
 LINKS:
 
 [Learn about the switch from Google Hangouts to Google Chat](https://support.google.com/chat/answer/9854901?hl=en)
 
--
+Google Hangouts is being upgraded to Google Chat at the end of 2022 for those who haven’t already upgraded. Some people may have already moved to Google Chat and may no longer be able to use Google Hangouts on some platforms.
+
+> Starting November 1, 2022, Hangouts on the web will no longer be available
+
+TAKEAWAY: Wait if you do not have an account for Google Hangouts/Chat.
+
+### How to access your data in Google Chat
+
+> N/A if you are not even set up yet (like me)
+
+For most people, conversations are automatically migrated from Hangouts to Chat, so it’s easy to pick up where you left off. You can also search for those messages in Chat.
+
+### Determine whether you use Google Hangouts or Google Chat
+
+**Google Hangouts**:
+
+- If this logo (green round talk bubble) appears, you use Google Hangouts.
+- While we encourage everyone to make the switch to Chat, Hangouts on the web will continue to be available until November 1, 2022. User conversations and history will also be available during this time. We will provide at least 30 days notice through the in-product banner before we start to redirect Hangouts on the web to Chat on the web.
+
+**Google Chat**:
+
+- If this logo (double green square bubbles) appears, you use Google Chat.
+- On a computer, you can either:
+  - Start a chat at chat.google.com.
+  - Download the Google Chat Progressive Web App.
+- On mobile, use the Google Chat or Gmail app for iOS or Android.
+
+### Learn about the additional functionality in Google Chat
+
+Google Chat easily integrates across Google Workspace and provides a modern, feature-rich experience that includes:
+
+Enhanced expression:
+
+- React to messages with emojis that feature skin-tone selections.
+- Respond with Smart Replies.
+- Format text with rich-text editing.
+- Tag specific people with @mentions.
+- Search for and share GIFs.
+
+Better collaboration:
+
+- Edit Docs, Slides, or Sheets with side-by-side editing to make it easier to collaborate while you continue a conversation.
+- Use spaces, a dedicated place for topic-based collaboration.
+
+SKIP SECTION: Learn about the differences between Google Chat & Google Hangouts
 
 [Upgrading from Google Hangouts to Google Chat](https://blog.google/products/workspace/hangouts-to-chat/)
 
--
+> STOPPED HERE
 
 [Stay Connected By Learning How to Use Google Hangouts](https://gigworker.com/how-to-use-google-hangouts/)
 
