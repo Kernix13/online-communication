@@ -390,7 +390,8 @@ You can ask, upvote, and comment on questions if these features are enabled by t
 
 Other sections on this doc page: 1) Start a cloud recording, 2) Add and launch polls, 3) Manage participants, 4) Use Mask Background
 
-<a href="https://biz30.timedoctor.com/how-to-use-zoom/" align="center">How To Use Zoom: A Step-by-Step Guide</a>
+<div align="center"><a href="https://biz30.timedoctor.com/how-to-use-zoom/"><strong>How To Use Zoom: A Step-by-Step Guide</strong></a>
+</div>
 
 [How To Use Zoom: A Step-by-Step Guide](https://biz30.timedoctor.com/how-to-use-zoom/)
 
