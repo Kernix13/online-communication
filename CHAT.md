@@ -260,10 +260,6 @@ Resource links:
 
 ## Zoom
 
-LINKS:
-
-<!-- [Getting started guide for new users](https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users) -->
-
 <h3 align="center"><a href="https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users"><strong>Getting started guide for new users</strong></a>
 </h3>
 
@@ -310,7 +306,8 @@ As the meeting host, there are several ways you can start your meeting. Your upc
 
 There are many ways to join a meeting, but the easiest way is to click the join link that the meeting host provided. You can also click Join in your Zoom client and enter the meeting ID. You may also be prompted for a meeting passcode, so keep the meeting invite information available
 
-[Getting started with the Zoom web client](https://support.zoom.us/hc/en-us/articles/214629443-Getting-started-with-the-Zoom-web-client)
+<h3 align="center"><a href="https://support.zoom.us/hc/en-us/articles/214629443-Getting-started-with-the-Zoom-web-client"><strong>Getting started with the Zoom web client</strong></a>
+</h3>
 
 The Zoom web client allows joining a Zoom meeting or webinar in a web browser without downloading any plugins or software. By default, participants joining through the web client do not need to be signed in to a Zoom account, but the host can [require authentication](https://support.zoom.us/hc/en-us/articles/360037117472).
 
@@ -393,8 +390,8 @@ You can ask, upvote, and comment on questions if these features are enabled by t
 
 Other sections on this doc page: 1) Start a cloud recording, 2) Add and launch polls, 3) Manage participants, 4) Use Mask Background
 
-<div align="center"><a href="https://biz30.timedoctor.com/how-to-use-zoom/"><strong>How To Use Zoom: A Step-by-Step Guide</strong></a>
-</div>
+<h3 align="center"><a href="https://biz30.timedoctor.com/how-to-use-zoom/"><strong>How To Use Zoom: A Step-by-Step Guide</strong></a>
+</h3>
 
 - Zoom makes it super easy for anyone to set up and conduct a virtual face-to-face meeting
 - Zoom is a cloud-based video conferencing tool that lets you host virtual one-on-one or team meetings easily. With powerful audio, video and collaboration features, this remote communication tool connects remote team members with each other.
@@ -413,7 +410,8 @@ Other sections on this doc page: 1) Start a cloud recording, 2) Add and launch p
 
 <br>
 
-**[The Complete Guide on How To Use Zoom 2022](https://teambuildinghub.com/blog/how-to-use-zoom/)**
+<h3 align="center"><a href="https://teambuildinghub.com/blog/how-to-use-zoom/">The Complete Guide on How To Use Zoom 2022</a>
+</h3>
 
 Fast Facts
 
@@ -422,20 +420,20 @@ Fast Facts
 - Zoom is free to use, but there are paid options for more features!
 - With an account, you can personalize Zoom calls to your taste
 
-### Filters and Backgrounds
+#### Filters and Backgrounds
 
 - Zoom allows users to use a custom background in order to hide what’s actually going on behind the screen.
 - This options is perfect for those working from home with kids or other people around!
 - Using the backgrounds work best against a blank wall. There are also downloadable filters to add a fun, personal touch to videos
 
-### Joining A Meeting
+#### Joining A Meeting
 
 For both of these options, you do not need an account, or to be logged in
 
 - Clicking A Link: When you’re invited to a meeting, you can simply click the link under “Join Zoom Meeting” and you’ll access the meeting
 - Meeting ID: This is a specific numerical code that is sent to participants with the meeting invitation. You can use this to log into a meeting when prompted. It also comes with a passcode
 
-### Scheduling A Meeting
+#### Scheduling A Meeting
 
 To set up a meeting, you first need to create an account and log in. After that, click “Schedule” and follow the prompts from there.
 
@@ -450,7 +448,9 @@ As Meeting Host, You Can:
 - Pick breakout room groups
 - Choose whether or not hosts and participants have access to a video feed
 
-### The Chat Feature
+<br>
+
+#### The Chat Feature
 
 - In meetings, participants can chat with the entire group or directly with one another.
 - If you would like, you can save in-meeting chats to your computer either manually or automatically.
