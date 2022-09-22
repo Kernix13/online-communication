@@ -262,7 +262,10 @@ Resource links:
 
 LINKS:
 
-[Getting started guide for new users](https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users)
+<!-- [Getting started guide for new users](https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users) -->
+
+<h3 align="center"><a href="https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users"><strong>Getting started guide for new users</strong></a>
+</h3>
 
 Also check out the section _How to download the Zoom client_.
 
@@ -392,8 +395,6 @@ Other sections on this doc page: 1) Start a cloud recording, 2) Add and launch p
 
 <div align="center"><a href="https://biz30.timedoctor.com/how-to-use-zoom/"><strong>How To Use Zoom: A Step-by-Step Guide</strong></a>
 </div>
-
-[How To Use Zoom: A Step-by-Step Guide](https://biz30.timedoctor.com/how-to-use-zoom/)
 
 - Zoom makes it super easy for anyone to set up and conduct a virtual face-to-face meeting
 - Zoom is a cloud-based video conferencing tool that lets you host virtual one-on-one or team meetings easily. With powerful audio, video and collaboration features, this remote communication tool connects remote team members with each other.
