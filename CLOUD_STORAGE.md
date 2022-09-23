@@ -13,6 +13,7 @@ Free cloud storage and document sharing apps.
    1. [Best Practices for Sharing in Google Drive](#best-practices-for-sharing-in-google-drive)
 1. [IDrive](#idrive)
    1. [Google Drive vs IDrive](#google-drive-vs-idrive)
+   1. [IDrive Review I](#idrive-review-i)
 1. [Google docs](#google-docs)
 1. [Confluence](#confluence)
 1. [OneDrive](#onedrive)
@@ -332,15 +333,80 @@ You, as a file owner, can view detailed activity on your files and revoke access
 <h3 id="google-drive-vs-idrive" align="center"><a href="https://www.cloudwards.net/google-drive-vs-idrive/"><strong>Google Drive vs IDrive</strong></a>
 </h3>
 
-> STOPPED HERE
+> Google Drive is one of the best cloud storage services, while IDrive tops our best online backup rankings
+
+Generally speaking, though, you can safely assume that IDrive is your best bet when it comes to online backup, while Google Drive is your go-to when you want to work with others online.
+
+#### Backup
+
+- IDrive is the undisputed champion of backup compared to other providers in the field
+- IDrive offers more features than any other provider...and it can backup all manner of devices and operating systems. The only exception is anything running on Linux.
+- When it comes to backing up your files, you can do so in several ways: on the level of individual files or — if you’re more the set-it-and-forget-it type — on the level of folders or even entire disks
+- the service also supports block-level file copying. This means it scans all files before uploading and then only transfers the bits that have been changed, which saves you both time and resources
+
+#### Google Drive Backup & Sync
+
+- While Google’s Backup and Sync works well enough, it just doesn’t pack the same punch as IDrive does and offers far fewer options. That said, it’s a great way to backup your files for free, so we won’t discount it altogether
+- if you just need to backup a few files, Google Drive is better, as it offers 15GB for free, as opposed to IDrive’s 10GB of free storage space
+- if you have less than 15GB worth of files that you need backed up and you don’t need too many options when sending them into the cloud, Google Drive is an OK backup alternative
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Syncing Files
+
+- IDrive offers some pretty decent syncing abilities, but it’s no match for Google - Google Drive is one of the best syncing solutions out there
+- any file you have linked on either your computer or in the cloud changes across all devices when you change a single copy
+- It’s an incredibly handy feature and IDrive is one of the few backup services that has it
+- IDrive’s syncing abilities are a cut above even those of many storage providers, though Dropbox outperforms it in this category
+- There’s also no cap on the file size, making IDrive a great way to send large files
+- However, Google Drive just does a better job. It lets you sync files from every device imaginable, sometimes even sweeping up files you had no intention of moving into the cloud
+- It also packs in a number of its apps into this process, most notably Google Photos, which uploads every pic you take into the cloud
+- Besides pictures, Google also syncs docs and spreadsheets, and it can even sync files other people are working on
+- IDrive’s sync, while pretty good, just can’t hold a candle to Google Drive’s
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Sharing and Collaboration
+
+- While IDrive can share files, it’s basically just a glorified transfer service. Google Drive can share, collaborate in real time and do a host of other things
+- Although it’s not perfect, it’s a fantastic overall tool
+- Sharing with Google Drive is easy, and it offers a lot more options than IDrive does, including the option to restrict people from certain content as well as to share files across a whole organization
+- Drive offers everything you could need from a basic productivity suite: a word processor, a spreadsheet program, a presentation maker and more
+
+#### Security
+
+...how well each service protects your files from outside meddling
+
+- Although both encrypt your files at rest, Google goes with 128-bit AES, while IDrive uses 256-bit. That’s not a huge difference, though it might disqualify Google Drive for the very security conscious
+- a bigger issue is that IDrive allows you to use zero-knowledge encryption, while Google does not
+- This deficiency makes your files vulnerable to mischief by Google’s employees, but also to third parties if they were ever able to gain access to where Google stores its users’ passwords
+- Google is slightly weaker at-rest encryption
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Privacy
+
+- As a company that makes most of its money from ads, Google has a terrible privacy policy and will actively scan your Drive files to find out more about you.
+- IDrive doesn’t do thisIDrive has a privacy policy that’s fully compliant with the EU’s GDPR regulations as well as the U.S. healthcare rules enshrined in HIPAA.
+- if you switch on zero-knowledge encryption, you should be alright in this case, as IDrive might hand over your files to authorities if served a warrant, but not your password as it doesn’t have access to it
+
+#### Google and Privacy
+
+- There are many revelations concerning the way Google uses data from users’ private files and devices
+- Google doesn’t use zero-knowledge encryption, so we generally recommend that you don’t store sensitive data on Google’s servers unless you enable it yourself using some of the best encryption software, like Boxcryptor
+
+However, no matter how you slice it, IDrive has a lot more built-in privacy, so it ultimately takes the cake without any real argument.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<br>
+
+<h3 id="idrive-review-i" align="center"><a href="https://dataprot.net/reviews/business/idrive-review/"><strong>IDrive Review I</strong></a>
+</h3>
 
 -
 
-[iDrive Review](https://dataprot.net/reviews/business/idrive-review/)
-
--
-
-[IDrive Review](https://techjury.net/reviews/idrive-review/)
+[IDrive Review II](https://techjury.net/reviews/idrive-review/)
 
 -
 
