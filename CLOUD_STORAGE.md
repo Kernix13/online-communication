@@ -18,7 +18,7 @@ Free cloud storage and document sharing apps.
 1. [OneDrive](#onedrive)
 1. [Dropbox](#dropbox)
    1. [Using the Dropbox website](#using-the-dropbox-website)
-   1. [How to use Dropbox for team collaboration](#how-to-use-dropbox-for-team collaboration)
+   1. [How to use Dropbox for team collaboration](#how-to-use-dropbox-for-team-collaboration)
    1. [What is Dropbox and how to use it](#what-is-dropbox-and-how-to-use-it)
 
 ## Google drive
@@ -408,6 +408,10 @@ LINKS:
 
 -
 
+<br>
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ## Dropbox
 
 Click on the Pricing link on the Dropbox home page and then do a search for _free_, and below the plan cards you will see the following:
@@ -436,6 +440,8 @@ Along the top of the page you can access:
 - Help and announcements (question mark), to access out help center, community, what's new, and privacy and legal information.
 - Notifications (bell), to let you know about comments and activity in your files
 - Your avatar (profile picture or initials), to access account settings, install the Dropbox app, and sign out of your account
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 #### Left sidebar
 
@@ -505,6 +511,10 @@ Admins on team plans can manage members and settings from the admin console. The
 - Settings: Change team-wide settings, from members and security to sharing, apps, and add-on features.
 - Help: Access self-support resources and contact Dropbox support.
 
+<br>
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 <h3 id="how-to-use-dropbox-for-team-collaboration" align="center"><a href="https://www.computerworld.com/article/3607759/how-to-use-dropbox-for-team-collaboration.html"><strong>How to use Dropbox for team collaboration</strong></a>
 </h3>
 
@@ -513,6 +523,10 @@ Shared folders in Dropbox give teams a common work area to gather key files, cre
 Dropbox is best known as a cloud storage service, but it also offers some collaboration tools. For example, you and your co-workers can add comments to files and create shared to-do lists. These functions are available with all Dropbox individual user plans (including both free and paid versions) and team accounts for business.
 
 > It makes no sense to cover dropbox if you can not collaborate and share on the free plan!
+
+<br>
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 <h3 id="what-is-dropbox-and-how-to-use-it" align="center"><a href="https://www.androidauthority.com/what-is-dropbox-3203517/"><strong>What is Dropbox and how to use it</strong></a>
 </h3>
