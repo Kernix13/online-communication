@@ -425,9 +425,8 @@ Collaboration is possible with a free account. From [Ending support for Dropbox 
 
 > Starting in January 2022, Dropbox will no longer support free teams...
 
-LINKS:
-
-[Using the Dropbox website](https://help.dropbox.com/installs/homepage)
+<h3 id="using-the-dropbox-website" align="center"><a href="https://help.dropbox.com/installs/homepage"><strong>Using the Dropbox website</strong></a>
+</h3>
 
 #### Search, apps, notifications, and settings
 
@@ -506,7 +505,8 @@ Admins on team plans can manage members and settings from the admin console. The
 - Settings: Change team-wide settings, from members and security to sharing, apps, and add-on features.
 - Help: Access self-support resources and contact Dropbox support.
 
-[How to use Dropbox for team collaboration](https://www.computerworld.com/article/3607759/how-to-use-dropbox-for-team-collaboration.html)
+<h3 id="how-to-use-dropbox-for-team-collaboration" align="center"><a href="https://www.computerworld.com/article/3607759/how-to-use-dropbox-for-team-collaboration.html"><strong>How to use Dropbox for team collaboration</strong></a>
+</h3>
 
 Shared folders in Dropbox give teams a common work area to gather key files, create to-do lists, edit and comment on documents, and more.
 
@@ -514,7 +514,8 @@ Dropbox is best known as a cloud storage service, but it also offers some collab
 
 > It makes no sense to cover dropbox if you can not collaborate and share on the free plan!
 
-[What is Dropbox and how to use it](https://www.androidauthority.com/what-is-dropbox-3203517/)
+<h3 id="what-is-dropbox-and-how-to-use-it" align="center"><a href="https://www.androidauthority.com/what-is-dropbox-3203517/"><strong>What is Dropbox and how to use it</strong></a>
+</h3>
 
 > What is it with sites that cover dropbox? Another super slow site!
 
