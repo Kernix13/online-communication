@@ -1,19 +1,26 @@
 # Free Online File Sharing
 
+<div id="back-to-top"></div>
+
+## Table of Contents
+
 1. [Google docs](#google-docs)
+   1. [How to use Google Docs](#how-to-use-google-docs)
+   1. []()
+   1. []()
+   1. []()
 1. [Confluence](#confluence)
 
 ## Google docs
 
 Google Docs is partially covered in the Google Drive section in the Cloud Storage file, bt here I go into more detail. And of course, they have more than just docs.
 
-LINKS:
-
-[How to use Google Docs](https://www.androidauthority.com/how-to-use-google-docs-tutorial-tips-tricks-3110289/)
+<h3 id="how-to-use-google-docs" align="center"><a href="https://www.androidauthority.com/how-to-use-google-docs-tutorial-tips-tricks-3110289/"><strong>How to use Google Docs</strong></a>
+</h3>
 
 -
 
-[Google Docs...](https://qz.com/2128000/all-the-innovative-ways-google-docs-are-being-used-today/)
+[Ways to use Google Docs](https://qz.com/2128000/all-the-innovative-ways-google-docs-are-being-used-today/)
 
 -
 
