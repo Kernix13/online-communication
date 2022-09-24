@@ -2,8 +2,22 @@
 
 Calendars are used to schedule events or to-do items. As a communication tool, they can also be used to invite team members to a text chat (Discord, Slack), voice chat (Discord), or Vvideo chat (Zoom, Google Spaces). You are also able to set remimders of any/all items in your calendar.
 
+<div id="back-to-top"></div>
+
+## Table of Contents
+
 1. Google calendar: meeting reminders, daily agenda, tasks
+   1. [The Ultimate Google Calendar Guide 2022](#the-ultimate-google-calendar-guide-2022)
+   1. [20 Ways to Use Google Calendar 2022](#20-ways-to-use-google-calendar-2022)
+   1. [How to Use The New Google Calendar](#how-to-use-the-new-google-calendar)
+   1. [The 15 best Google Calendar tips](#the-15-best-google-calendar-tips)
+   1. [Google Calendar tips and tricks](#google-calendar-tips-and-tricks)
 1. [Calendly](#calendly)
+   1. [Getting started with Calendly](#getting-started-with-calendly)
+   1. [What Is Calendly And How Does It Work](#what-is-calendly-and-how-does-it-work)
+   1. [What Is Calendly and How Do You Get Started](#what-is-calendly-and-how-do-you-get-started)
+   1. [How to Use Calendly to Schedule Meetings](#how-to-use-calendly-to-schedule-meetings)
+   1. [The Ultimate Guide to Calendly](#)
 
 <div id="back-to-top"></div>
 
@@ -11,7 +25,8 @@ Calendars are used to schedule events or to-do items. As a communication tool, t
 
 LINKS:
 
-[The Ultimate Google Calendar Guide for 2022](https://www.rightinbox.com/blog/google-calendar-guide)
+<h3 id="the-ultimate-google-calendar-guide-2022" align="center"><a href="https://www.rightinbox.com/blog/google-calendar-guide"><strong>The Ultimate Google Calendar Guide 2022</strong></a>
+</h3>
 
 - ability to share calendars with other people for scheduling purposes
 - you can set different permissions for each user
@@ -26,7 +41,10 @@ LINKS:
 - With the SMS reminder add-on, you can set up reminders
 - You can use Planyway to sync Trello with Google Calendar and see tasks on your calendar
 
-[20 WAYS TO USE GOOGLE CALENDAR TO MAXIMIZE YOUR DAY IN 2022](https://www.oberlo.com/blog/google-calendar)
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="20-ways-to-use-google-calendar-2022" align="center"><a href="https://www.oberlo.com/blog/google-calendar"><strong>20 Ways to Use Google Calendar 2022</strong></a>
+</h3>
 
 - If you’re already logged into your Google account, you can find the calendar by clicking on the “Apps” icon in the upper-right corner of your browser
 - **Google Calendar Sync**: this will allow you to see all of your events in one calendar - you have both a personal and work calendar, you can sync the two
@@ -46,13 +64,19 @@ LINKS:
 - **Add Attachments to Google Calendar**: You can add attachments for people to view directly on the Google Calendar invite to keep everyone in the loop
 - **Enable, Change or Turn Off Notifications**: When it comes to Google Calendar notifications you have three options to choose from: Off, Desktop notifications, and Alerts. You can change your notification settings under Settings > Event Settings > Notifications
 
-[How to Use The New Google Calendar](https://www.calendar.com/blog/how-to-use-the-new-google-calendar-features-you-never-knew-existed/)
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="how-to-use-the-new-google-calendar" align="center"><a href="https://www.calendar.com/blog/how-to-use-the-new-google-calendar-features-you-never-knew-existed/"><strong>How to Use The New Google Calendar</strong></a>
+</h3>
 
 - **Defining Goals**: you can create goals and schedule the tasks required to complete them. Using Google Calendar makes it easier to keep track of your progress. The goals can be productivity-based, financial-based, or whatever you choose
 - **Finding a Meeting Time**: help you choose a schedule that works for everyone without endless emails and texting
 - **Sharing Your Calendar**: share your Google Calendar with family, so they are aware of your schedule. Alternatively, you can share your calendar with your assistant so they can plan your day. But be careful about who has access. Depending on your permission settings, they can change your events, share the calendar with other people that you don’t know, or delete the entire calendar
 
-[The 15 best Google Calendar tips](https://www.businessinsider.com/guides/tech/google-calendar-tips)
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="the-15-best-google-calendar-tips" align="center"><a href="https://www.businessinsider.com/guides/tech/google-calendar-tips"><strong>The 15 best Google Calendar tips</strong></a>
+</h3>
 
 - **Create multiple calendars**: organize yourself with multiple calendars. You can overlay more than one calendar for a holistic view of your day or turn off some calendars to reduce the noise
 - **Find a meeting time**: Add all the invitees to the meeting Guest list, and then click Find a Time at the top of the meeting details. You'll see everyone's schedules side by side, and you can find an opening that suits everyone's schedule
@@ -66,7 +90,10 @@ LINKS:
 - **Receive a daily email with your scheduled meetings**: a morning summary of your meetings and tasks
 - **Enter the location in your meeting invite**: Google Calendar lets you enter the exact street address in your meeting invite
 
-[Google Calendar tips and tricks](https://desktime.com/blog/google-calendar-tips-and-tricks)
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="google-calendar-tips-and-tricks" align="center"><a href="https://www.businessinsider.com/guides/tech/google-calendar-tips"><strong>Google Calendar tips and tricks</strong></a>
+</h3>
 
 - **Set reminders and notifications**: you can set event reminders and push notifications to your phone or desktop to notify you of upcoming events and warn you of changed meeting details or cancellations
 - **Adjust the Calendar to changing locations**: for example, driving into different time zones
@@ -84,9 +111,8 @@ LINKS:
 
 It looks like the free basic plan is devoid of the features you would want or need. It also seems to just be for meetings.
 
-LINKS:
-
-[Getting started with Calendly](https://calendly.com/blog/getting-started-guide)
+<h3 id="getting-started-with-calendly" align="center"><a href="https://calendly.com/blog/getting-started-guide"><strong>Getting started with Calendly</strong></a>
+</h3>
 
 - **Start sharing your links**: When you create a Calendly account, you'll see three ready-to-share event types: a 15-minute meeting, a 30-minute meeting, and a 60-minute meeting. Everything is customizable, including name and description, your availability, and the event’s duration
 - **Enhance your event types**: Each of your event types has its own dedicated scheduling link so you can have the perfect one ready for every meeting you host. Having the right event types ready will make scheduling more efficient and your meetings more effective:
@@ -96,13 +122,19 @@ LINKS:
   - Ask your invitees questions that enable you to host better meetings
 - **Get Calendly wherever you work**: use the Chrome extension
 
-[What Is Calendly And How Does It Work](https://www.alphr.com/what-is-calendly/)
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="what-is-calendly-and-how-does-it-work" align="center"><a href="https://www.alphr.com/what-is-calendly/"><strong>What Is Calendly And How Does It Work</strong></a>
+</h3>
 
 - Calendly Basic Plan: You can link only one calendar to your Basic account, and create only a single event type for your clients to book.
 - You won’t be able to leverage follow-ups or customize your notifications. However, you and your clients will still receive automatic event notifications so you don’t have to deal with rescheduling and cancellation manually.
 - You can also brand your booking page and customize your booking link in the Basic version
 
-[What Is Calendly and How Do You Get Started?](https://www.dignited.com/98161/what-is-calendly-and-how-do-you-get-started/)
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="what-is-calendly-and-how-do-you-get-started" align="center"><a href="https://www.dignited.com/98161/what-is-calendly-and-how-do-you-get-started/"><strong>What Is Calendly and How Do You Get Started</strong></a>
+</h3>
 
 - You connect the Google Calendar so that they are in sync and do not conflict with your existing schedules
 - Calendly has 4 major tabs:
@@ -111,7 +143,7 @@ LINKS:
   - Workflows: Automate all the work you do around events, such as text messages when events are booked, email reminders before events, and more. You can start with a commonly used workflow or create your own
   - Routing forms: Routing forms let you gather information from someone upfront and direct them to a specific booking page or website based on their responses
 
-### Creating An Event
+#### Creating An Event
 
 - Define the type of event you want people to schedule with you. This includes the duration, location, and availability. In the freemium version that I am using, you are only able to have 15 minutes only. If you wish to have more time, you must upgrade.
 - By default, someone can connect with you in an anonymous 15 min event. You can also create a new event with details
@@ -125,9 +157,12 @@ LINKS:
 
 Your Basic free subscription allows 1 event type.
 
-[How to Use Calendly to Schedule Meetings Automatically](https://wheelhousedigital.com/how-to-use-calendly/)
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
-### How to set up Calendly
+<h3 id="how-to-use-calendly-to-schedule-meetings" align="center"><a href="https://wheelhousedigital.com/how-to-use-calendly/"><strong>How to Use Calendly to Schedule Meetings</strong></a>
+</h3>
+
+#### How to set up Calendly
 
 - Once you’ve logged in, on the first screen you see, you’ll be able to set your calendar URL. This is the web address that you’ll be able to send to people so they can see your calendar
 - Next, you want to integrate Calendly with your calendar. It’ll ask you to give permission to view and edit your calendar so that it can add events. Click “allow”.
@@ -140,18 +175,21 @@ Your Basic free subscription allows 1 event type.
 - You have the option to make questions required or optional
 - Then, you’ll be able to set the autoresponders. Typically, this will mean one email that’s sent out as soon as the meeting is booked, and another email that’s sent out as a reminder as the meeting gets closer
 
-### Getting Calendly implemented on your website
+#### Getting Calendly implemented on your website
 
 - To integrate it on your website, Calendly will give you some code that you can copy and paste wherever you like on your site
 
-[The Ultimate Guide to Calendly](https://savvycal.com/articles/calendly/)
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="the-ultimate-guide-to-calendly" align="center"><a href="https://savvycal.com/articles/calendly/"><strong>The Ultimate Guide to Calendly</strong></a>
+</h3>
 
 - Sync to your personal or work calendars (optional). Create event types. Choose from a 15-minute, 30-minute, or 60-minute meeting, or adjust the timeframes to fit your needs
 - Edit the event’s name and description and your availability
 - Send the link to a recipient(s)
 - Recipients can choose one of the event types you’ve created and select a time with you
 
-### How to Set Up Calendly
+#### How to Set Up Calendly
 
 - When you log into Calendly, you’ll see an Account tab at the top right corner of the page.
 - Clicking on this provides you with everything you need to set up your account and billing information, as well as to share your link or invite other people to the account
@@ -165,11 +203,13 @@ Your Basic free subscription allows 1 event type.
 
 > Calendly is a meeting scheduling application. It does not work as a standalone calendar. However, it does integrate with several calendar applications to make it easier for you to schedule meetings quickly and efficiently
 
-### Basic plan
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Basic plan
 
 The basic account is (and always will be) free but offers limited features. The basic plan allows you to connect to other calendars such as Google, Office 365, Outlook, and iCloud. Users on the free plan can create unlimited one-off meetings, customize booking links, and add the application to their website.
 
-### Advanced features
+#### Advanced features
 
 Calendly offers integrations with:
 

@@ -70,6 +70,8 @@ Outside of a team you can mention anyone you "know" in Figma. This includes:
 - People who are on the same teams, projects, or files as you.
 - Anyone you have invited, or has invited you, to a file.
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 [View and manage comments](#https://help.figma.com/hc/en-us/articles/360041547593-View-and-manage-comments)
 
 Comments in a file are pinned to the point or region of the canvas selected by the commenter. How comments display depends on your zoom level of the canvas and the amount of comments.
@@ -102,6 +104,8 @@ You can access comments from the right sidebar. You can also dock a comment to t
 
 - You can also delete any comment you post. If you delete a comment with replies, this will delete the entire thread.
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 [Move or edit comments](#https://help.figma.com/hc/en-us/articles/360041547853-Move-or-edit-comments)
 
 - You can edit the content of any comment you've posted. This is handy if you've noticed a typo, want to add a clarification, or mention a collaborator.
@@ -115,6 +119,8 @@ You can change where the comment is pinned. To move a comment:
 - Select the comment in the canvas, or from the right sidebar in comment mode.
 - Click on the comment pin in the canvas.
 - Drag the comment pin to its new location.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 #### Move layers with comments
 
@@ -137,6 +143,8 @@ If the comment was linked to the canvas—not the layer or frame itself—Figma 
 **Duplicate files**:
 
 If you duplicate a file, Figma won't copy comments to the new file. Comments are only kept on the original file.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 [Manage email notifications for comments on files](#https://help.figma.com/hc/en-us/articles/360041547813-Manage-email-notifications-for-comments-on-files)
 
