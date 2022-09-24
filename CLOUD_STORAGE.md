@@ -14,8 +14,8 @@ Free cloud storage and document sharing apps.
 1. [IDrive](#idrive)
    1. [Google Drive vs IDrive](#google-drive-vs-idrive)
    1. [IDrive Review I](#idrive-review-i)
-1. [Google docs](#google-docs)
-1. [Confluence](#confluence)
+   1. [IDrive Review II](#idrive-review-ii)
+   1. [IDrive product overview](#idrive-product-overview)
 1. [OneDrive](#onedrive)
 1. [Dropbox](#dropbox)
    1. [Using the Dropbox website](#using-the-dropbox-website)
@@ -404,75 +404,150 @@ However, no matter how you slice it, IDrive has a lot more built-in privacy, so 
 <h3 id="idrive-review-i" align="center"><a href="https://dataprot.net/reviews/business/idrive-review/"><strong>IDrive Review I</strong></a>
 </h3>
 
--
+#### Backing Up and Restoring Files
 
-[IDrive Review II](https://techjury.net/reviews/idrive-review/)
+- iDrive can back up files to iDrive cloud storage or another device, such as a different computer, smartphone, or external hard drive.
+- You can even make disk image backups, and, as with other top cloud-backup solutions, you can designate exactly which folders you want backed up.
+- By default, everything in your Desktop, Music, Documents, and Pictures folders will automatically be selected for backup
+- There are also numerous scheduling options, including real-time backup of files smaller than 0.5 GB through the continuous backup option.
+- You can name your backups and choose whether they will be performed on a daily basis or only at specific times.
+- Manual backups can be performed at any time by clicking “Backup now” in the Backup section or ticking the “Start the backup immediately” box in the Scheduler tab
+- iDrive makes as many as 30 copies of your backed-up files
+- Each backup has a timestamp, so you can easily tell which one you need
+- keeping lots of backups online can quickly fill up your storage quota
+- The best cloud storage programs handle this problem with a file cleanup function. iDrive’s is called Archive Cleanup.
+- This handy tool creates an exact match of your local files in selected directories, so when you delete them locally, they are gone from cloud storage as well.
+- Archive Cleanup can be done manually, or you can let iDrive take care of it automatically through the Periodic Cleanup function
 
--
+#### Cloud Sync Functionality
 
-[IDrive product overview](https://technologyadvice.com/products/idrive-reviews/)
+- Backing up your files is great, but being able to quickly share them among devices is one of the most requested features when it comes to online file storage.
+- While most cloud-based storage solutions don’t bother with synchronization options, iDrive features a system that is similar to Google Drive’s.
+- Anything you put in the iDrive-Sync folder is automatically synced between devices, and mobile phone backups are automatically synced unless you choose otherwise.
+- The synchronization happens in real-time, and you can access files from any of the dedicated apps or the web interface on the iDrive site
+- In addition to accessing files yourself, you can very easily share them with other people
+- Files that you want to share simply have to be put in the iDrive-Sync folder, then marked “share this file.”
+- You can set access rights for the files you share, too, with access levels from read-only to full administrator rights – which could conceivably let someone else lock you out of your own remote backups
 
--
+#### Security and Performance
+
+- the company gives you the only copy of the encryption key that exists for your files so don't lose it!
+- no one but you can access your files - or you can opt for an encryption key that is stored on the company’s servers
+- Speed is an important criterion - lots of large files will take a long time
+
+#### User Interface and Installation Process
+
+- iDrive provides apps for Windows, macOS, Android, and iOS devices, while Linux users have to make do with the web interface
+- The desktop version features a gray background, with tabs for backup, restore, scheduler, and synchronization settings.
+- Backups can be done from both the backup and sync tabs, with the scheduler offering various options for setting up automated or manual backups
+- iDrive has extensive scheduling and notification options. You can even set up automatic cloud file syncing for files smaller than 0.5 GB by ticking the “Continuous Data Protection” option
+
+<br>
+
+<h3 id="idrive-review-ii" align="center"><a href="https://techjury.net/reviews/idrive-review/"><strong>IDrive Review II</strong></a>
+</h3>
+
+IDrive is an ideal cloud backup solution for individual usage and business purposes. It even includes the sync and sharing features that not only help it compete with backup services but even top cloud storage solutions, like Dropbox.
+
+#### Basic Plan (Free)
+
+This plan is free of cost and offers 5 GB. There is no need to enter your credit card details to get started, and it never expires. However, it offers very limited features.
+
+#### File Backup
+
+- You can backup the data as individual files or in folders
+- Once you log in to IDrive, you will find a few folders by default for backup, including desktop, pictures, videos, music, and documents folders.
+- These folders can be removed and replaced manually by using the change button in the backup tab.
+- IDrive backup also gives you an option to conduct a non-scheduled backup with just one click
+- IDrive supports block-level and multithreaded transfers.
+- In multithreaded transfers, multiple files can be transferred at once, which increases the speed of transfer but increases the CPU load.
+- The block-level transfer backs up data by scanning every file and uploading only the parts that have been changed, which saves data and increases the backup speed
+
+#### Restoring Data
+
+- IDrive restore tab: You have the option to choose the original backup device using the dropdown and move the file to your desktop directly, or restore them in the specified place using the checkboxes.
+- You can right-click the file to see the ‘View Previous Versions’ option. It allows you can select the file you want from the saved versions of the file
+- Snapshots: shows the backup set’s historical timeline - allows you to recover the files anytime from the timeline in case of hard drives damage. This is not included in the overall backup limit
+- Other features include file deletion from the backup, transferring them to the trash area where they can still be recovered from, a share button that starts the web client option.
+- IDrive online backup can archive the previous 30 file versions. You would still be able to access your files even after deleting them locally
+
+#### Sync and Share
+
+- the sync and share feature - A sync folder can be set up that can synchronize the contents automatically between devices
+- It helps in doubling the storage space effectively since filling the folder doesn’t eat away the backup storage
+- You can set up the IDrive sync folder in simple steps, and once it is done, you can transfer the folder wherever you want and turn on selective sync, if you don’t need certain files
+- You can also enable the share feature from the web client option of the IDrive.
+- This is not included in the desktop add, but the web client is simple to use and offers a complete overview of all devices.
+- You just have to select a particular item from the web client and right-click it to share a folder or file.
+- You can then add in the email address of the individual you want to share that file or the folder with.
+- It even allows you to set access privileges for them, for instance, allowing them to either edit or view the file
+
+#### IDrive Speed
+
+- IDrive doesn’t score well here as its speed is slow even on faster connections
+- Typically, to download and upload a 3.5 GB folder with text, videos, and pictures would take about five minutes for the download and about half an hour for upload with a high-speed connection.
+- Realistically, it might take around 15 minutes for download and 45 minutes to one hour for upload.
+- It took IDrive about one hour for downloads and more than two hours for upload
+- If IDrive compresses the files first, then it would take considerably less download time.
+- In case the connection drops during the backup, IDrive may have a difficult time reconnecting and continuing the backup
+
+#### IDrive Security and Privacy
+
+- IDrive utilizes the 256-bit AES encryption by utilizing a key set by the service or by using a private key that the user creates.
+- The data stays encrypted throughout the transmission and even when it is stored on the servers.
+- It continues being encrypted until you restore it in your system. IDrive even supports two-factor authentication, which is email-based, to access its mobile and web apps
+- The privacy policy of IDrive indicates that it does gather the personal data of the users
+
+<br>
+
+<h3 id="idrive-review-i" align="center"><a href="https://technologyadvice.com/products/idrive-reviews/"><strong>IDrive product overview</strong></a>
+</h3>
+
+IDrive is a secure and simple online backup and file sharing platform for Windows, Mac, iOS, Android, and Servers. It specializes in cloud storage, backup, remote access, compliance, and related technologies serving the consumer, small business, and enterprise markets.
+
+IDrive facilitates transferring critical computer folders to the cloud after-hours by creating a schedule for the backup. Its customization options include the provision to modify the backup set, its schedules, and reporting options. Users can view, manage, and restore all backed-up files on the move via the web.
+
+#### Pros of IDrive
+
+- It handles physical data transfers up to three times a year for businesses. Organizations can backup or retrieve several gigabytes of data to their online account in just a week or less using the physical shipment of temporary storage devices sent by IDrive.
+- It compresses data during transmission, ensuring effective utilization of Internet bandwidth, irrespective of file size or type.
+
+#### Cons of IDrive
+
+- It doesn’t offer unlimited storage.
+
+#### Online file sync
+
+- Users have access to their critical data from any device, in a form as if it is on their local drive
+- Whenever a user modifies files, the updates sync to the local drive of computers on which Sync is active and to their cloud account.
+- As a result, they can instantly access the latest version of their files locally via a web browser and download them using mobile apps
+
+#### Snapshots
+
+- Snapshots bring a historical view of data stored in IDrive, letting users perform point-in-time recovery
+- users can restore files by selecting a timeline - IDrive retains up to 30 previous versions of all files backed up to an account
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
-## Google docs
-
-I'm covering this separately in it's own section rather than including it in the Google Drive section.
-
-LINKS:
-
-[How to use Google Docs](https://www.androidauthority.com/how-to-use-google-docs-tutorial-tips-tricks-3110289/)
-
--
-
-[Google Docs...](https://qz.com/2128000/all-the-innovative-ways-google-docs-are-being-used-today/)
-
--
-
-[Google Docs Tutorial](https://filestage.io/blog/google-docs-tutorial/)
-
--
-
-[Ultimate Guide To Google Docs](https://www.cruxfinder.com/guide-to-google-docs/)
-
--
-
-## Confluence
-
-LINKS:
-
-[Confluence basics](https://www.atlassian.com/software/confluence/guides/get-started/confluence-overview#about-confluence)
-
--
-
-[How to use Confluence for documentation](https://www.adaptavist.com/blog/how-to-use-confluence-for-documentation)
-
--
-
-[Atlassian Confluence Tutorial For Beginners: A Complete Guide](https://www.softwaretestinghelp.com/atlassian-confluence-tutorial/)
-
--
-
-[Project collaboration using Confluence](https://www.atlassian.com/software/confluence/guides/project-collaboration)
-
--
-
-Cloud storage: https://www.tomsguide.com/buying-guide/best-free-cloud-storage
-
 ## OneDrive
 
-> this is a Microsoft tool and it seems to be integrated with Microsoft Office 365 - skip
+> this is a Microsoft tool and it seems to be integrated with Microsoft Office 365 - not interested
 
 LINKS:
 
 [What Is OneDrive](https://www.dummies.com/article/technology/software/microsoft-products/onedrive/what-is-onedrive-231851/)
 
--
-
-[Why You Should Use OneDrive for Business](https://www.altaro.com/microsoft-365/onedrive-for-business/)
-
--
+- OneDrive is an internet-based storage platform with a significant chunk of space offered for free by Microsoft to anyone with a Microsoft account
+- OneDrive gives everyone with a Microsoft account 5GB of free storage
+- OneDrive can be confusing...
+- Some OneDrive users have all their web-based files and folders stored on their computers, and OneDrive syncs the folders quite quickly — what you see in File Explorer is what's stored in the cloud, and vice versa
+- But other OneDrive users have only some of their OneDrive folders on their computers. File Explorer shows them only this subset of folders and hides all the others that are sitting in the cloud
+- If you log in to a different Windows 10 computer using the same Microsoft account, you have access to all your OneDrive data through the web but, surprisingly, not necessarily through File Explorer.
+- In fact, if you look only at Windows File Explorer, you might not even know what data is sitting in your OneDrive storage
+- This is one of the most confusing and dangerous parts of Windows 10
+- File Explorer offers a very simple process for copying files from your computer into OneDrive, as long as you want to put the file in a folder that's visible to File Explorer.
+- File Explorer lets you move files in the other direction, from OneDrive storage on to your local hard drive, but again you must be able to see the file or folder in File Explorer before you can move it.
+- You can share files or folders that are stored in OneDrive by sending or posting a link to the file or folder to whomever you want
 
 <br>
 
@@ -605,3 +680,5 @@ Sections in the article:
 - How much does Dropbox cost?
 - How to use Dropbox
 - Dropbox features
+
+Cloud storage: https://www.tomsguide.com/buying-guide/best-free-cloud-storage
