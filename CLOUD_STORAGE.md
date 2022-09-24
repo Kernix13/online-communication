@@ -419,6 +419,8 @@ However, no matter how you slice it, IDrive has a lot more built-in privacy, so 
 - This handy tool creates an exact match of your local files in selected directories, so when you delete them locally, they are gone from cloud storage as well.
 - Archive Cleanup can be done manually, or you can let iDrive take care of it automatically through the Periodic Cleanup function
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 #### Cloud Sync Functionality
 
 - Backing up your files is great, but being able to quickly share them among devices is one of the most requested features when it comes to online file storage.
@@ -434,6 +436,8 @@ However, no matter how you slice it, IDrive has a lot more built-in privacy, so 
 - the company gives you the only copy of the encryption key that exists for your files so don't lose it!
 - no one but you can access your files - or you can opt for an encryption key that is stored on the company’s servers
 - Speed is an important criterion - lots of large files will take a long time
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 #### User Interface and Installation Process
 
@@ -463,6 +467,8 @@ This plan is free of cost and offers 5 GB. There is no need to enter your credit
 - In multithreaded transfers, multiple files can be transferred at once, which increases the speed of transfer but increases the CPU load.
 - The block-level transfer backs up data by scanning every file and uploading only the parts that have been changed, which saves data and increases the backup speed
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 #### Restoring Data
 
 - IDrive restore tab: You have the option to choose the original backup device using the dropdown and move the file to your desktop directly, or restore them in the specified place using the checkboxes.
@@ -482,6 +488,8 @@ This plan is free of cost and offers 5 GB. There is no need to enter your credit
 - You can then add in the email address of the individual you want to share that file or the folder with.
 - It even allows you to set access privileges for them, for instance, allowing them to either edit or view the file
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 #### IDrive Speed
 
 - IDrive doesn’t score well here as its speed is slow even on faster connections
@@ -498,6 +506,8 @@ This plan is free of cost and offers 5 GB. There is no need to enter your credit
 - It continues being encrypted until you restore it in your system. IDrive even supports two-factor authentication, which is email-based, to access its mobile and web apps
 - The privacy policy of IDrive indicates that it does gather the personal data of the users
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 <br>
 
 <h3 id="idrive-review-i" align="center"><a href="https://technologyadvice.com/products/idrive-reviews/"><strong>IDrive product overview</strong></a>
@@ -511,6 +521,8 @@ IDrive facilitates transferring critical computer folders to the cloud after-hou
 
 - It handles physical data transfers up to three times a year for businesses. Organizations can backup or retrieve several gigabytes of data to their online account in just a week or less using the physical shipment of temporary storage devices sent by IDrive.
 - It compresses data during transmission, ensuring effective utilization of Internet bandwidth, irrespective of file size or type.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 #### Cons of IDrive
 
