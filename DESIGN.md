@@ -448,6 +448,8 @@ Penpot is an online design workspace where designers can create or import graphi
 - If you need very specific sizes, you can adjust your artboard's dimensions in the properties panel on the right side of the Penpot interface
 - You can perform basic maths in the text fields, e.g. if you know your design size is 1920 by 1080, but you need to allow for scrolling down the equivalent of five screens, enter `1080*5` as the height, and Penpot converts it to 5400 for you
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 #### Drawing in Penpot
 
 - Penpot primarily uses SVG (Scalable Vector Graphics) for its design elements.
@@ -470,6 +472,8 @@ One of the easiest ways to ensure consistency in design is to re-use assets. The
 - Once you've designed an element, right-click on it, and select Create Component. The item is added to your project's Assets library
 - You can access your asset library by pressing Alt+I on your keyboard or clicking the Assets icon in the lower-left corner of the interface
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 #### Comments and feedback
 
 A healthy feedback loop is vital for collaboration, and one way to provide feedback asynchronously is the Comment (C) tool. Using the Comment tool, collaborators on a project can safely post questions and observations anywhere in the workspace. Comments are threaded, so a conversation happens within one comment block, and a comment thread can be deleted when an issue has been resolved.
@@ -477,6 +481,8 @@ A healthy feedback loop is vital for collaboration, and one way to provide feedb
 #### Prototype
 
 To capture the different states your design may go through as a user interacts with it, you can build a prototype, with no coding required. A prototype lets you set any design element as a trigger to detect a click or mouse event and to take an action such as navigating to another artboard or opening an overlay.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 <h3 id="open-source-prototyping-and-design-platform" align="center"><a href="https://medevel.com/penpot/"><strong>Open-source Prototyping and design platform</strong></a>
 </h3>
@@ -522,6 +528,8 @@ Penpot takes care of collaboration, team management, real-time commenting, share
 
 - using Docker and Docker compose. You can configure SMTP, users, demo accounts, and more using config.env file. If everything is ok, you can start using Penpot at: `http://localhost:9001`. SMTP does not seem to work
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 <h3 id="free-open-source-prototyping-platform" align="center"><a href="https://www.ilovefreesoftware.com/25/webware/free-open-source-ui-prototyping-platform-for-designers-penpot.html"><strong>Free open source prototyping platform</strong></a>
   </h3>
 
@@ -539,6 +547,8 @@ The installation process is easy as well since it supports Docker deployment. If
 - Penpot lets you create interactive design and mimic the product behavior. You can share them with stakeholders, present proposals to your team and do user testing all in one place.
 - Penpot supports feedback features. When you share the design with others, then they can leave comments on the design for improvements.
 - Export individual components as PNG, SVG, and PDF.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 <h3 id="penpot-on-github" align="center"><a href="https://github.com/penpot/penpot"><strong>Penpot on GitHub</strong></a>
 </h3>
