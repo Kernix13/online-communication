@@ -1,4 +1,4 @@
-# Free Text Voice and Video Chat Tools
+# Free Text, Voice, and Video Chat Tools
 
 1. Discord: chat, collaboration
 1. Slack: chat, collaboration
@@ -15,14 +15,14 @@ Discord tends to be used on a personal basis whereas Slack is more commonly used
 
 1. [Discord](#discord)
    1. [Channels](#channels)
-   1. [Text vs voice channels](#text-vs-voice-channels)
+   1. [Text channels vs Voice channels](#text-channels-vs-voice-channels)
    1. [Roles and Moderators](#roles-and-moderators)
    1. [Adding bots](#adding-bots)
    1. [Resource links](#resource-links)
 1. [Slack](#slack)
    1. [Setting up a Workspace](#setting-up-a-workspace)
    1. [Slack Left Sidebar](#slack-left-sidebar)
-   1. [Slack Top Menubar](#slack-op-menubar)
+   1. [Slack Top Menubar](#slack-top-menubar)
    1. [Slack Chat Rooms](#slack-chat-rooms)
    1. [Create channels](#create-channels)
    1. [Send Direct Messages in Slack](#send-direct-messages-in-slack)
@@ -32,7 +32,7 @@ Discord tends to be used on a personal basis whereas Slack is more commonly used
    1. [Miscellaneous](#miscellaneous)
 1. [Zoom](#zoom)
    1. [Getting started guide](#getting-started-guide)
-   1. [Zoom web client](#zoom-web-client)
+   1. [Getting started with the Zoom web ](#getting-started-with-the-zoom-web-client)
    1. [Step-by-Step Guide](#step-by-step-guide)
    1. [Complete guide to zoom](#complete-guide-to-zoom)
 1. [Google Hangouts](#google-hangouts)
@@ -322,7 +322,7 @@ There are many ways to join a meeting, but the easiest way is to click the join 
 
 <br>
 
-<h3 id="zoom-web-client" align="center"><a href="https://support.zoom.us/hc/en-us/articles/214629443-Getting-started-with-the-Zoom-web-client"><strong>Getting started with the Zoom web client</strong></a>
+<h3 id="getting-started-with-the-zoom-web-client" align="center"><a href="https://support.zoom.us/hc/en-us/articles/214629443-Getting-started-with-the-Zoom-web-client"><strong>Getting started with the Zoom web client</strong></a>
 </h3>
 
 The Zoom web client allows joining a Zoom meeting or webinar in a web browser without downloading any plugins or software. By default, participants joining through the web client do not need to be signed in to a Zoom account, but the host can [require authentication](https://support.zoom.us/hc/en-us/articles/360037117472).

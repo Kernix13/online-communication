@@ -50,3 +50,22 @@ Design:
 1. **Penpot**
 1. **InVision**
 1. **Sketch**: Free only for students and educators
+
+## For Developers
+
+Below are programming opportunities for the tools in this repo:
+
+- [Google Chat REST API](https://developers.google.com/chat/api/guides/rest-api): provides programmatic, RESTful access to Chat resources like messages, spaces, and attachments
+- Discord Bots: the bots are written in Python
+- [Discord API](https://discord.com/developers/docs/reference): based around two core layers, a HTTPS/REST API for general operations, and persistent secure WebSocket based connection for sending and subscribing to real-time events
+- [Calendly API](https://developer.calendly.com/getting-started): three APIs to integrate Calendly into your application
+- [Slack API](https://api.slack.com/methods): The Slack platform lets you extend, expand, and automate your workspaces
+- [Zoom API](https://zoom.github.io/api/): provides the ability for developers to easily add Video, Voice and Screen Sharing to your application. Page redirects to [Introduction to Zoom API](https://marketplace.zoom.us/docs/api-reference/introduction/) when you move to a different tab or window.
+- [Dropbox API](): lets you add Dropbox features to your apps, such as file storage, sharing, previews, and search
+- [Figma API](https://www.figma.com/developers/api): read access and interactions with Figma files
+- [Confluence API](https://developer.atlassian.com/server/confluence/confluence-server-rest-api/): for admins who want to script interactions with Confluence Server and Data Center and developers who want to integrate with or build on top of the Confluence platform
+- [BitBucket API](https://developer.atlassian.com/cloud/bitbucket/rest/intro/)
+- [GitLab API](https://docs.gitlab.com/ee/api/)
+- [Asana API](https://developers.asana.com/docs): programmatic access to much of the data in the system
+- [Monday.com API](https://developer.monday.com/api-reference/docs): allows developers to programmatically access and update data inside a monday.com account
+- [Trello API](https://developer.atlassian.com/cloud/trello/): you can add buttons to cards and boards, show previews of attachments on Trello cards, and much more

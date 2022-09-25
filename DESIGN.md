@@ -1,11 +1,13 @@
 # Design collaboration tools
 
+I am only including detailed notes for Figma, Lunacy, and Penpot.
+
 <div id="back-to-top"></div>
 
 ## Table of Contents
 
 1. [Figma](#figma)
-   1. [Collaboration on Figma](#collaboration on-figma)
+   1. [Collaboration on Figma](#collaboration-on-figma)
    1. [Collaborative tools](#collaborative-tools)
    1. [Building a more collaborative design process with Figma](#building-a-more-collaborative-design-process-with-figma)
    1. [A collaborative online whiteboard for teams](#a-collaborative-online-whiteboard-for-teams)
@@ -15,8 +17,8 @@
    1. [Lunacy Review 2022](#lunacy-review-2022)
    1. [How to migrate from Figma to Lunacy](#how-to-migrate-from-figma-to-lunacy)
 1. [Penpot](#penpot)
-1. [Sketch](#sketch)
 1. [InVision](#invision)
+1. [Sketch](#sketch)
 
 I'll provide links for Sketch and InVision but Figma is the best option. There are other design resources, but you can't go wrong with Figma.
 
@@ -156,13 +158,6 @@ Connect Slack to your Figma account using our Slack integration. This lets you r
 
 <br>
 
-<h3 id="building-a-more-collaborative-design-process-with-figma" align="center"><a href="https://www.figma.com/blog/inside-figma-building-a-more-collaborative-design-process/"><strong>A collaborative online whiteboard for teams</strong></a>
-</h3>
-
-<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
-
-<br>
-
 <h3 id="a-collaborative-online-whiteboard-for-teams" align="center"><a href="https://www.figma.com/figjam/online-whiteboard/"><strong>A collaborative online whiteboard for teams</strong></a>
 </h3>
 
@@ -232,7 +227,7 @@ During design reviews, team designers can discuss their work on a large screen, 
 
 #### Figma APIs Provide Third-party Tool Integration
 
-Figma now has developer APIs to allow true integration with any browser-based app. Companies are using this to integrate real-time displays of design files in their apps. For example, Uber has large screens displaying design files “live on air” around their company. Designs are shared, and feedback is welcome from anyone in the company.
+Figma now has [developer APIs](https://www.figma.com/developers/api) to allow true integration with any browser-based app. Companies are using this to integrate real-time displays of design files in their apps. For example, Uber has large screens displaying design files “live on air” around their company. Designs are shared, and feedback is welcome from anyone in the company.
 
 Atlassian’s JIRA software has implemented a Figma add-on so product owners, developers, and quality engineers are always viewing the latest version of any mockup from the designers.
 
@@ -423,37 +418,153 @@ Both free converters work fine, but there can be issues with components.
 
 ## Penpot
 
-[Penpot YouTube Channle](https://www.youtube.com/c/Penpot)
+Check out the [Penpot YouTube Channel](https://www.youtube.com/c/Penpot).
 
-> STOPPED HERE
+<h3 id="open-source-design-collaboration-with-penpot" align="center"><a href="https://opensource.com/article/21/12/open-source-design-penpot"><strong>Open source design collaboration with Penpot</strong></a>
+</h3>
 
-- [Open source design collaboration with Penpot](https://opensource.com/article/21/12/open-source-design-penpot)
-- [Penpot: an open-source Prototyping and design platform for teams](https://medevel.com/penpot/)
-- [FREE OPEN SOURCE UI PROTOTYPING PLATFORM FOR DESIGNERS: PENPOT](https://www.ilovefreesoftware.com/25/webware/free-open-source-ui-prototyping-platform-for-designers-penpot.html)
-- [Penpot on GitHub](https://github.com/penpot/penpot)
+Penpot is an online design workspace where designers can create or import graphical elements, create mock-ups, and share those mock-ups with clients and collaborators. It is open source and relies on open formats like SVG, which means your contributors have lots of choices in what tools they use to contribute assets.
+
+#### Getting started with Penpot
+
+- After you log in, you're presented with the Projects page.
+- There are some demo files here, designed to provide you with an overview of the Penpot interface.
+- A project in Penpot can have multiple pages. Select a page to view in the Pages panel
+- A page in Penpot isn't like a page in the real world. A Penpot page is an infinite canvas. Middle-click and drag to move the canvas
+
+#### Create an artboard
+
+- An infinite canvas means you can use the same workspace to display several different options for the same page type.
+- You can design a light and dark theme, a mobile and desktop version, and then several different iterations of each.
+- Because everything's on the canvas, you need a way to define an area for your design, and in the terminology of design apps, that's an artboard.
+- An artboard is a container (think of it as a div, in CSS terms) for a mock-up.
+- It's the part of the canvas you'll show someone when they ask to see your design ideas.
+- To create an artboard, click the Artboard icon in the left toolbar, or just press A on your keyboard
+- Click and drag on the canvas to create an artboard
+- If you need very specific sizes, you can adjust your artboard's dimensions in the properties panel on the right side of the Penpot interface
+- You can perform basic maths in the text fields, e.g. if you know your design size is 1920 by 1080, but you need to allow for scrolling down the equivalent of five screens, enter `1080*5` as the height, and Penpot converts it to 5400 for you
+
+#### Drawing in Penpot
+
+- Penpot primarily uses SVG (Scalable Vector Graphics) for its design elements.
+- SVG is a structured and open format that's easy for web developers to translate into code.
+- drawing in Penpot is as easy as drawing in Inkscape and, just as importantly, it's easy to align, duplicate, re-use, and export for use in any other application
+- In Penpot, you have these drawing tools:
+  - Rectangle (R): draw rectangles, and adjust for rounded corners and fills in the properties panel
+  - Ellipse (E): draw ellipses and circles
+  - Text (T): create text elements
+  - Image (Shift+K): import a bitmap image
+  - Curve (Shift+C): a pen with Bezier curves
+  - Path (P): a pen tool
+- You can adjust all design elements in the properties panel on the right of the interface. Most everything that can be adjusted also maps to a CSS property
+- it's that much easier for the development team to translate design to implementation accurately
+
+#### Assets
+
+One of the easiest ways to ensure consistency in design is to re-use assets. The fewer times a designer has to draw essentially the same button, the fewer opportunities there are for a rounded corner to be forgotten or the size to be wrong. Build a library of design elements and make those the vocabulary of your designers.
+
+- Once you've designed an element, right-click on it, and select Create Component. The item is added to your project's Assets library
+- You can access your asset library by pressing Alt+I on your keyboard or clicking the Assets icon in the lower-left corner of the interface
+
+#### Comments and feedback
+
+A healthy feedback loop is vital for collaboration, and one way to provide feedback asynchronously is the Comment (C) tool. Using the Comment tool, collaborators on a project can safely post questions and observations anywhere in the workspace. Comments are threaded, so a conversation happens within one comment block, and a comment thread can be deleted when an issue has been resolved.
+
+#### Prototype
+
+To capture the different states your design may go through as a user interacts with it, you can build a prototype, with no coding required. A prototype lets you set any design element as a trigger to detect a click or mouse event and to take an action such as navigating to another artboard or opening an overlay.
+
+<h3 id="open-source-prototyping-and-design-platform" align="center"><a href="https://medevel.com/penpot/"><strong>Open-source Prototyping and design platform</strong></a>
+</h3>
+
+Penpot is a free, open-source web-based design and prototyping application for teams. It works with open web standards as it uses SVG (Scalable Vector Graphics) format.
+
+Penpot can be installed on a remote server or the local machine with help of Docker and Docker Compose. With Penpot, you can quickly design a web or mobile prototype in no time.
+
+You can use Penpot as a solo designer to work directly with your customers or, as a part of a team to work on your prototypes.
+
+#### Penpot Features
+
+Penpot takes care of collaboration, team management, real-time commenting, shared resources, assets library and more. Here is a list of Penpot features:
+
+- Supports unlimited projects
+- Large artboards selection: mobile, web, tablet, social media posters, and custom.
+- Unlimited users with roles and different permissions
+- Eases real-time collaboration between team members
+- Easily switch between prototyping and design views
+- Run prototyping player
+- Layer support
+- Enable scale text
+- Drafts which helps designer publish their work as it finishes
+- Export artboards to PDF
+- Record your color selection
+- Comments tool, Comments viewer, and System-wide comments
+- Supports multiple teams
+- Shared libraries among teams
+- Download the source image with SVG and CSS support.
+- Add your custom fonts to the asset libraries
+- Shared library among designers
+- Assets library
+- Built-in notification
+- Search assets libraries
+- Convert your design elements into components
+- Drafts management
+- SMTP email support
+- Drag-and-drop assets download
+- Download full projects in a combat file
+- Easily drop your downloaded project file into Penpot's page which will download all project files and assets
+
+#### Install Penpot
+
+- using Docker and Docker compose. You can configure SMTP, users, demo accounts, and more using config.env file. If everything is ok, you can start using Penpot at: `http://localhost:9001`. SMTP does not seem to work
+
+<h3 id="free-open-source-prototyping-platform" align="center"><a href="https://www.ilovefreesoftware.com/25/webware/free-open-source-ui-prototyping-platform-for-designers-penpot.html"><strong>Free open source prototyping platform</strong></a>
+  </h3>
+
+Penpot is a free and open source UI prototyping platform for designers. Think of Penpot as a decent alternative to Figma with a few limitations.
+
+The installation process is easy as well since it supports Docker deployment. If you wish, then you can use it online as well as offline locally on a local server running on your personal machine.
+
+#### The main features of Penpot
+
+- All the designing tools are in the toolbox. From shapes to layer editor, you have access to all. Just select a tool and then start drawing on the artboard.
+- All the shapes and elements that you add in your design can be customized. You can configure fill color, stroke, and layer multiplication parameters. All the options are displayed in the right sidebar just like Figma.
+- You can preview the design that you have created.
+- Share the design with your team. Just add collaborators to share projects with your entire designing team. Also, share designs via URL.
+- Design editor is very responsive and supports ruler and adjustment options. You can use zoom and pan like feature to adjust the view and also align elements according to the horizon or center.
+- Penpot lets you create interactive design and mimic the product behavior. You can share them with stakeholders, present proposals to your team and do user testing all in one place.
+- Penpot supports feedback features. When you share the design with others, then they can leave comments on the design for improvements.
+- Export individual components as PNG, SVG, and PDF.
+
+<h3 id="penpot-on-github" align="center"><a href="https://github.com/penpot/penpot"><strong>Penpot on GitHub</strong></a>
+</h3>
+
+Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open standards (SVG).
+
+Being web based, Penpot is not dependent on operating systems or local installations, you will only need to run a modern browser.
+
+Using SVG as no other design and prototyping tool does, Penpot files sport compatibility with most of the vectorial tools, are tech friendly and extremely easy to use on the web. We make sure you will always own your work.
+
+If you prefer not to install Penpot in a local environment, login or register on [Penpot cloud app](https://design.penpot.app/#/auth/login).
+
+Join the [Penpot community](https://community.penpot.app/).
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ## InVision
 
-Check out their [YouTube channel playlists](https://www.youtube.com/c/Invisionappinc/playlists) for tutorials on the tool.
+Check out their [YouTube channel playlists](https://www.youtube.com/c/Invisionappinc/playlists) for tutorials on the tool. I'm not adding notes for them but here are some useful links:
+
+1. [Working with InVision V7 prototypes](https://support.invisionapp.com/hc/en-us/articles/360003221591-Working-with-InVision-V7-prototypes)
+1. [What is InVision Write](https://support.invisionapp.com/hc/en-us/articles/360038850231-What-is-InVision-Write-)
+1. [InVision Spaces](https://www.invisionapp.com/inside-design/spaces-collaboration/)
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ## Sketch
 
-Sketch is only free if you are a student or teacher
+Sketch is only free if you are a student or teacher so I won't be adding notes but here are some useful links:
 
-LINKS:
-
-[How to get started with real-time collaboration](https://www.sketch.com/blog/2021/05/05/get-started-with-real-time-collaboration/)
-
--
-
-[Get started with your Sketch Workspace](https://www.sketch.com/blog/2021/11/02/get-started-sketch-workspace/)
-
--
-
-[How to Collaborate With Your Team Using Sketch](https://webdesign.tutsplus.com/articles/how-to-collaborate-with-your-team-using-sketch--cms-25170)
-
--
+1. [How to get started with real1.time collaboration](https://www.sketch.com/blog/2021/05/05/get-started-with-real-time-collaboration/)
+1. [Get started with your Sketch 1.orkspace](https://www.sketch.com/blog/2021/11/02/get-started-sketch-workspace/)
+1. [How to Collaborate With Your T1.am Using Sketch](https://webdesign.tutsplus.com/articles/how-to-collaborate-with-your-team-using-sketch--cms-25170)

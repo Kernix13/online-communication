@@ -694,3 +694,5 @@ Sections in the article:
 - Dropbox features
 
 Cloud storage: https://www.tomsguide.com/buying-guide/best-free-cloud-storage
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>

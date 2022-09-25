@@ -6,7 +6,7 @@ Calendars are used to schedule events or to-do items. As a communication tool, t
 
 ## Table of Contents
 
-1. Google calendar: meeting reminders, daily agenda, tasks
+1. Google calendar
    1. [The Ultimate Google Calendar Guide 2022](#the-ultimate-google-calendar-guide-2022)
    1. [20 Ways to Use Google Calendar 2022](#20-ways-to-use-google-calendar-2022)
    1. [How to Use The New Google Calendar](#how-to-use-the-new-google-calendar)
@@ -17,13 +17,13 @@ Calendars are used to schedule events or to-do items. As a communication tool, t
    1. [What Is Calendly And How Does It Work](#what-is-calendly-and-how-does-it-work)
    1. [What Is Calendly and How Do You Get Started](#what-is-calendly-and-how-do-you-get-started)
    1. [How to Use Calendly to Schedule Meetings](#how-to-use-calendly-to-schedule-meetings)
-   1. [The Ultimate Guide to Calendly](#)
+   1. [The Ultimate Guide to Calendly](#the-ultimate-guide-to-calendly)
 
 <div id="back-to-top"></div>
 
 ## Google calendar
 
-LINKS:
+<br>
 
 <h3 id="the-ultimate-google-calendar-guide-2022" align="center"><a href="https://www.rightinbox.com/blog/google-calendar-guide"><strong>The Ultimate Google Calendar Guide 2022</strong></a>
 </h3>
