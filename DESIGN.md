@@ -17,6 +17,10 @@ I am only including detailed notes for Figma, Lunacy, and Penpot.
    1. [Lunacy Review 2022](#lunacy-review-2022)
    1. [How to migrate from Figma to Lunacy](#how-to-migrate-from-figma-to-lunacy)
 1. [Penpot](#penpot)
+   1. [Open source design collaboration with Penpot](#open-source-design-collaboration-with-penpot)
+   1. [Open-source Prototyping and design platform](#open-source-prototyping-and-design-platform)
+   1. [Free open source prototyping platform](#free-open-source-prototyping-platform)
+   1. [Penpot on GitHub](#penpot-on-github)
 1. [InVision](#invision)
 1. [Sketch](#sketch)
 
