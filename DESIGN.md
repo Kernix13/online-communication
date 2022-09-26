@@ -32,8 +32,6 @@ The free plan allows having projects and team members. I am not sure of how many
 
 That is about the extent of collaboration with the free plan but it still offers the ability to share and contribute to projects.
 
-LINKS:
-
 The best links I found are from Figma's channel on YouTube. Here are the best videos:
 
 1. [Figma For Beginners: Explore ideas (1/4)](https://youtu.be/dXQ7IHkTiMM)
