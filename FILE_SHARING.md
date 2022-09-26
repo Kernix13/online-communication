@@ -164,27 +164,213 @@ This is a huge "How-To" article on using Google docs. Take a look at it if you w
 <h3 id="confluence-basics" align="center"><a href="https://www.atlassian.com/software/confluence/guides/get-started/confluence-overview#about-confluence"><strong>Confluence basics</strong></a>
 </h3>
 
--
+Create, collaborate, and organize all your work in one place:
+
+- Dynamic pages give your team a place to create, capture, and collaborate on any project or idea.
+- Spaces help your team structure, organize, and share work, so every team member has visibility into institutional knowledge and access to the information they need to do their best work
+
+Confluence is for teams of any size and type, from those with mission-critical, high-stakes projects that need rigor behind their practices, to those that are looking for a space to build team culture and engage with one another in a more open and authentic way.
+
+**Hosting options**: 1. Cloud, 2. Data Center, 3. Server
+
+#### Key Terms
+
+- Page: Your content lives in pages – living documents you create on your Confluence site.
+  - You can create pages for almost anything, from project plans to meeting notes, troubleshooting guides, policies, and more.
+  - Confluence comes bundled with templates to help you make beautiful pages for almost any kind of content.
+  - If you can’t find a template for the type of content you want to create, you can always start with a blank page
+- Space: Pages are stored in spaces – workspaces where you can collaborate on work and keep all your content organized.
+  - It’s best to group related content together in the same space, but you can create as many or as few spaces as your team needs.
+  - For example, one marketing team might keep all of its work in one space, with a page for each campaign, while another might set up a separate space for every single campaign.
+  - Each space comes with an overview (or homepage) and a blog, so it’s easy to share updates and announcements with your whole team
+- Page Tree: Organize space content with a hierarchical page tree that makes finding work quick and easy.
+  - Nest pages under related spaces and pages to organize pages in just about any way.
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 <h3 id="how-to-use-confluence-for-documentation" align="center"><a href="https://www.adaptavist.com/blog/how-to-use-confluence-for-documentation"><strong>How to use Confluence for documentation</strong></a>
 </h3>
 
--
+Confluence is an incredibly versatile tool with a number of different applications:
+
+- It can be used as a company wiki, department hub or co-working space to facilitate remote work - a peer-to-peer collaboration within organisations
+- And also to create technical documentation for external users of your products, plus more
+
+#### What is documentation and why is it important
+
+Documentation should display and describe what a product is, how it works and how to use it properly. It should be constantly updated to reflect technological and software updates, and good documentation will not only be correct, consistent and complete, but also navigable and user-friendly.
+
+Technical documentation plays an important role in the overall customer experience and can influence purchase decisions, renewal rates and customer satisfaction.
+
+#### Why use Confluence for documentation
+
+- Confluence is extremely collaborative
+- This allows technical writers, software developers and marketers to work in harmony for quicker, more accurate documentation creation
+- Its intuitive interface and powerful editor makes it easy to create content, pages and spaces
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Using Confluence for documentation
+
+**Step 1: Create the framework**
+
+- Simply create a new space (Spaces>Create space) and select Documentation space
+- then name your space, add a description and set permissions
+
+**Step 2: Implement Confluence permissions to make content more (and less) accessible**
+
+- When pages are in draft state, half-finished or littered with comments, it’s best practice to keep them hidden
+- you should restrict permissions as soon as you create a new page.
+- This might mean keeping draft content exclusive to select team members or restricting a public page to staff members until it’s ready to be accessible to the public.
+- When you share pages with reviewers for their feedback, make sure you change their restrictions accordingly
+- Hint: In-line and page comments can be extremely useful during the documentation drafting process. Just make sure to delete any comments before publishing your page
+
+**Step 3: Make content more visually appealing**
+
+- good documentation should feature plenty of images to help illustrate exactly what you’re telling users to do.
+- Use up-to-date screenshots, gifs and video walk-throughs of your product in use, ideally with text to annotate the key features and steps
+- As well as illustrating your product in action, you should keep your documentation visually appealing and eye-catching.
+- This means using subheadings, bold text and colour appropriately
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+**Step 4: Focus on your organisation: Make your content clear and pages easily navigable**
+
+- Part of making your pages pretty is keeping them clear of clutter and breaking up chunks of text into easily digestible sections
+- have a structured page hierarchy and make sure there’s a clear pathway through your documentation.
+- That means avoiding orphaned pages and making sure there are prominent links between relevant sections
+
+**Step 5: Make your Confluence pages more interactive and seek out user feedback**
+
+- Any UX designer knows that a good website is one that users want to interact and engage with, and your documentation should be no different.
+- As well as using buttons, tabs and links to encourage users to click through and explore, add more dedicated features to speak directly to your users and encourage them to share information with you
+
+**Step 6: Get your Confluence documentation online**
+
+- You’ll need to use an add-on like Scroll Viewport to publish directly to the web, adding a customised web layer on top of the Confluence documentation.
+- This means end users can view your Confluence documentation as a stylised website, without compromising your internal Confluence user interface
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 <h3 id="confluence-tutorial-for-beginners" align="center"><a href="https://www.softwaretestinghelp.com/atlassian-confluence-tutorial/"><strong>Confluence Tutorial For Beginners</strong></a>
 </h3>
 
--
+This is a HUGE documentation page! So huge that I am not going to cover it other than posting their table of contents and highlighting some important sections:
+
+- Why do we need Confluence?
+- Advantages
+- Getting Familiar with Terminology
+  - Dashboard
+  - Concept of Spaces
+  - Space Sidebar
+  - Header menu
+  - Create functionality
+- How to create and manage your own space and pages
+  - Step #1: Creating your space
+  - Step #2: Creating new pages
+  - Step #3: Formatting options
+- Sample Document
+- Some FAQ’s
+
+#### Advantages
+
+- #1. **Content management**: Content management includes the creation, maintenance, organization, and deletion of content. The content creation tools are easy to use and include a variety of functions- from basic text formatting, creating tables all the way to linking documents and embedding macros. The content can be organized into separate spaces, sorted and arranged in hierarchical order as required.
+- #2. **Search**: This tool supports a full-text search for all the content. The search results will include any matching results for the text in the pages main content and comments. This results in a very detailed search.
+- #3. **Confluence Templates**: This tool comes with some best practices templates that can be used to create pre-formatted pages.
+- #4. **Integration with JIRA**: JIRA and Confluence are both developed by Atlassian and have seamless integration with each other. The development work can be tracked in JIRA and the corresponding reports can be generated by automatic linking.
+- #5. **Page and File versioning**: As this is a collaboration tool, needless to say, it would be used by various cross-functional teams at all levels multiple times. To keep track of the changes made since the last edit, Confluence saves the older version of pages and files automatically. This older version can be used to compare the difference or even revert the last edit if required.
+- #6. **Feedback**: Team feedback in form of comments can be put on the pages and always referred to or even searched for when required.
+- #7. **User Management**: User and group-based permissions can be set up. It is even possible to set up separate viewing, editing and admin permissions for each space. We will discuss the concept of spaces in the next section.
+- #8. **Add-ons and plugins**: This tool has a wide range of available add-on plugins that can be used to perform function above and beyond what standard the tool has to offer. Some popular add-ons are Draw.io Diagrams, Balsamiq Mockups, Scroll PDF exporter, etc.
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
-<h3 id="project-collaboration-using-confluence" align="center"><a href="https://filestage.io/blog/google-docs-tutorial/"><strong>Project collaboration using Confluence</strong></a>
+#### Terminology: Dashboard
+
+- The dashboard is the landing page that a logged in user first sees
+- The dashboard gives a quick snapshot of the recent updates by the team along with the recent updates done by the user
+- Along with the updates, the dashboard also shows the Spaces that the user is a member of
+- The sidebar containing updates and space details is collapsible to optimize the viewing experience
+- The dashboard is customizable and the admin can set up a universal dashboard that all users will see
+
+#### Terminology: Concept of Spaces
+
+- Spaces in this tool are a way to organize the content.
+- Spaces can be thought of as individual file containers where the content can be categorized and organized in a meaningful way
+- There is no standard rule of how many spaces need to be or should be created.
+- The user can create any number of spaces with their own specific purposes to facilitate collaboration within teams
+- Space directory contains a list of all spaces that are created by confluence.
+- You can browse the spaces based on the space type – site, personal or my spaces.
+- My spaces refer to the sites created by the logged in user himself and can be either site or personal space
+- Confluence permits the creation of two spaces- site spaces and personal spaces:
+
+| Characteristic       | Site Spaces          | Personal space                |
+| :------------------- | :------------------- | :---------------------------- |
+| Purpose              | Collaboration        | Personal work space           |
+| Accessible by:       | All Confluence users | Creator of space (private)    |
+| -                    | -                    | All Confluence users (public) |
+| Listed in directory: | Yes                  | No                            |
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Terminology: Space Sidebar
+
+- The space sidebar is a collapsible menu on the space and pages and is used to navigate different pages.
+- The pages are shown in the form of a hierarchical tree structure.
+
+#### Terminology: Header menu
+
+- The header menu is visible at all pages and contains the Confluence Logo and a default menu with default options- Spaces, People, Create, help menu, notifications, and personal profile management.
+- This header menu is customizable and more menu options can be displayed as required by the user
+- This dashboard page is accessible from any page- user can click on the logo on the main menu and user will be redirected to the dashboard.
+
+#### Terminology: Create functionality
+
+- Create functionality is used to create new pages within any chosen spaces in the desired hierarchical order
+
+#### Creating your space
+
+1. choose the kind of space you want to create
+1. fill in the required information in the next step. You will be required to enter space name, a space key, and other mandatory or optional field depending on the kind of space you chose. The space key is a unique key used in the space URL and is auto-generated when user types in Space name, but you can change it if required
+
+#### Creating new pages
+
+You have the option to create a blank new page or chose from available templates. The very first page will be created as the Parent page. Subsequent pages can be created under this parent page or as separate page depending on how you want to structure your space
+
+1. Creating page from available templates
+1. Depending on the template chosen, you would be required to perform some additional steps like entering the page name, etc
+1. The new page will be created and you can edit and fill in the required information
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Formatting options
+
+This tool has a huge variety of text formatting and display options.
+
+- Formatting styles – there are several in build styles available for the text e.g. Paragraph, headings, quote etc.
+- Font related options – basic functionality to update font color, make text bold, italics etc. is provided
+- Lists – By default, there is 3 type of list options provided – bullet point list, numbered list, and task list. Task list is shown by a checkbox in front of it. A checkbox can be checked after the task is done to indicate completion
+- Align options – The text can be aligned left, right or center as required
+- Page layout – Using this option user can define sections within the document and manage the layout of the page
+- Inserting files and images – User can upload files and images to the Page as desired
+- Inserting Links – user can add links to other web pages or other Confluence pages in the Confluence documents for easy reference
+- Working with Tables – Table options and toolbar provided in Confluence software are similar to table options in MS Word. The symbols are self-explanatory and the functionality is easy to understand and use
+- Insert more content option – There are already default options available in Confluence for inserting files and images, inserting links and creating tables. For any additional content like adding Google sheets, or inserting plugins, etc. we use Insert more content option
+
+#### FAQs
+
+Here is a list of the best questions:
+
+- #2) I want to rearrange the pages in my space. How do I do that?
+- #3) I need to find details about a project/document, how do I search for it?
+- #5) If I have feedback about the content of the confluence document, what is the best way to provide it?
+- #7) Someone updated the original document, how do I know who changed what in my document?
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="project-collaboration-using-confluence" align="center"><a href="https://www.atlassian.com/software/confluence/guides/project-collaboration"><strong>Project collaboration using Confluence</strong></a>
 </h3>
 
--
+This is another huge docs page for setting up a team environment. I'm not posting any info from this page but leave it up to you to read the sections to see what you need to learn.
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
