@@ -240,8 +240,6 @@ Creating a new issue | Leaving comments | Writing on the project wall | Pulling 
 
 ## Bitbucket
 
-<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
-
 <h3 id="how-to-use-bitbucket" align="center"><a href="https://nira.com/how-to-use-bitbucket/"><strong>How to Use Bitbucket</strong></a>
 </h3>
 
