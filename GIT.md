@@ -9,13 +9,13 @@
    1. [GitLab Tutorials](#gitlab-tutorials)
    1. [What is GitLab and How To Use It](#what-is-gitlab-and-how-to-use-it)
    1. [What is GitLab and How To Use It II](#what-is-gitlab-and-how-to-use-it-ii)
-   1. [How to Use GitLab](#how-to-use-gitlab)
+   1. [How to Use GitLab II](#how-to-use-gitlab-ii)
    1. [What is Gitlab and How it works](#what-is-gitlab-and-how-it-works)
-1. BitBucket
+1. [Bitbucket](#bitbucket)
    1. [How to Use Bitbucket](#how-to-use-bitbucket)
    1. [Atlassian Bitbucket Tutorial](#atlassian-bitbucket-tutorial)
    1. [Bitbucket Tutorial](#bitbucket-tutorial)
-   1. [What is BitBucket and How it works](#)
+   1. [What is Bitbucket and How it works](#what-is-bitbucket-and-how-it-works)
    1. [Easy Guide to BitBucket](#easy-guide-to-bitBucket)
 
 I'm not going to cover Git commands in this file. You should already know that your public repositories are open to contributors. This is going to cover the collaboration aspects other the the project files or the git commands. You are viewing this on GitHub after all!
@@ -128,7 +128,7 @@ Of course, like any other tool available today, GitLab comes with its own share 
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
-<h3 id="how-to-use-gitlab" align="center"><a href="https://nira.com/how-to-use-gitlab/"><strong>How to Use GitLab</strong></a>
+<h3 id="how-to-use-gitlab-ii" align="center"><a href="https://nira.com/how-to-use-gitlab/"><strong>How to Use GitLab II</strong></a>
 </h3>
 
 Git is a free and open-source distributed version control system that allows developers to handle everything from small to very large projects with top speed and efficiency. Its goals include data integrity, speed, and support for distributed, non-linear workflows, which essentially means multiple people can work together on the same code without hindering the other’s progress.
@@ -240,8 +240,6 @@ Creating a new issue | Leaving comments | Writing on the project wall | Pulling 
 
 ## Bitbucket
 
-RESEARCH LINKS:
-
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 <h3 id="how-to-use-bitbucket" align="center"><a href="https://nira.com/how-to-use-bitbucket/"><strong>How to Use Bitbucket</strong></a>
@@ -281,6 +279,8 @@ Visit the [Bitbucket pricing page](https://www.atlassian.com/software/bitbucket/
 
 Although Bitbucket is a strong software program, developers will encounter some challenges when using it.
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 _Problem 1: Limited Users in Public Repositories_:
 
 - Bitbucket limits the number of contributors you can place in public repositories. This can cause issues when trying to allow a large team to collaborate on an open-source development project.
@@ -291,8 +291,6 @@ _Problem 2: Interface Is Challenging to Use_:
 
 - Some Bitbucket users find the software’s interface to be difficult to use. The interface’s design seems older, and some users describe it as clunky. Because of the challenging interface, some people who are new to the Bitbucket software may feel as though the software is running slow and they are struggling to complete projects.
 - The best way to work around this problem is to spend time with Bitbucket. The longer you work with Bitbucket’s interface, the better results you should have.
-
-<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 _Problem 3: Limited Functionality for Creating and Tracking Bug Issues_:
 
@@ -367,7 +365,7 @@ sudo ./atlassian-bitbucket-7.21.0-x64.bin
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
-<h3 id="What is BitBucket and How it works" align="center"><a href="https://www.devopsschool.com/blog/what-is-bitbucket-and-how-it-works-an-overview-and-its-use-cases/"><strong>What is BitBucket and How it works</strong></a>
+<h3 id="what-is-bitbucket-and-how-it-works" align="center"><a href="https://www.devopsschool.com/blog/what-is-bitbucket-and-how-it-works-an-overview-and-its-use-cases/"><strong>What is Bitbucket and How it works</strong></a>
 </h3>
 
 Bitbucket is our Git repository management solution designed for professional teams. It gives you a central place to manage git repositories, collaborate on your source code and guide you through the development flow.
