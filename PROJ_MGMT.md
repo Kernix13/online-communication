@@ -9,7 +9,6 @@
    1. [How to Use Asana](#how-to-use-asana)
    1. [Asana Tutorial for Beginners](#asana-tutorial-for-beginners)
    1. [How to use Asana for project management](#how-to-use-asana-for-project-management)
-   1. [9 Asana tips and tricks](#9-asana-tips-and-tricks)
 1. [Monday.com](#monday.com)
    1. [](#)
    1. [](#)
