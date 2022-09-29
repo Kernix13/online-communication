@@ -11,12 +11,11 @@ If you are not familiar with project management then these tools will not be eas
    1. [How to Use Asana](#how-to-use-asana)
    1. [Asana Tutorial for Beginners](#asana-tutorial-for-beginners)
    1. [How to use Asana for project management](#how-to-use-asana-for-project-management)
-1. [Monday.com](#monday.com)
-   1. [](#)
-   1. [](#)
-   1. [](#)
-   1. [](#)
-   1. [](#)
+1. [Monday dot com](#monday-dot-com)
+   1. [Get started with monday.com](#get-started-with-monday.com)
+   1. [How to use monday.com](#how-to-use-monday.com)
+   1. [How to Use Monday.com for Project Management](#how-to-use-monday.com-for-project-management)
+   1. [Monday.com Tutorial 2022](#monday.com-tutorial-2022)
 1. [Trello](#trello)
    1. [](#)
    1. [](#)
@@ -290,27 +289,224 @@ Asana offers an array of integrations. There are the integrations that are essen
 
 ## Monday dot com
 
-LINKS:
+<h3 id="get-started-with-monday.com" align="center"><a href="https://support.monday.com/hc/en-us/articles/115005305649-Get-started-with-monday-com"><strong>Get started with monday.com</strong></a>
+</h3>
 
-[Get started with monday.com](https://support.monday.com/hc/en-us/articles/115005305649-Get-started-with-monday-com)
+#### Everything starts with a board
 
--
+Boards are made up of items, subitems, groups, and columns. Items can be clients, deals, meetings, purchases, and more. Each item on the board will track one instance
 
-[How to use monday.com](https://www.techrepublic.com/article/how-to-use-monday/)
+- To create a new board, click "+ Add" in your left panel.
+- Next, name your board, select the board's privacy level, and then choose what you'd like to call your items
+- Add columns to organize important details, like email addresses, locations, and the status of an item.
+- Sort items into groups for more structure.
+- You can customize all boards to your needs.
+- Or use a template
 
--
+#### Start collaborating
 
-[How to Use Monday.com for Project Management](https://everhour.com/blog/how-to-use-monday-for-project-management/)
+These are the basic elements of managing any board:
 
--
+- Assign items: With permission, all team members can see every aspect of a project and jump in to collaborate — but first, assigning ownership is key. Use the People Column to assign items. The person assigned will receive a notification about the assignment.
+- Communicate: Use the updates section to keep everyone informed about how the item is progressing; ask questions, write updates, and attach images or files. To make it fun, add GIFs, emojis, and @mention teammates.
+- Track your progress: Use the status column to record your progress. Nothing beats seeing your whole column turn the same color when everything is done! Green is our personal favorite.
 
-[Monday.com Tutorial 2022](https://www.cloudwards.net/monday-com-beginners-guide/)
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
--
+#### Enhance your board with views
 
-[How to use monday.com](https://blog.wearedrew.co/en/how-to-use-monday.com-step-by-step-to-create-your-first-board)
+You can add views to enhance the performance of your board or to gain valuable insights. Use The Form View to automatically collect survey responses on your board, The Files View to review a gallery of your files and annotate those that are still in progress, or The Chart View to visualize your board's data. There are many more to choose from.
 
--
+#### Integrations
+
+Try adding integrations and automations to your workflow. These tools are the perfect way to eliminate manual work. With automations, the possibilities are limitless. And some of our most popular integrations are our most versatile— like the Gmail and Outlook integrations.
+
+#### Dashboards
+
+Once you have your workflow built out across multiple boards, you can use dashboards to see all of your data at a high level. Dashboards are capable of integrating data from multiple boards into one view. This is a great way to make comparisons and measure team performance.
+
+#### monday workdocs
+
+One of our best tools for collaborating and brainstorming is monday workdocs. Workdocs are a flexible, multi-media whiteboard. By adding individual elements to your workdoc, you can record your every thought where the rest of your work is stored.
+
+Each element is flexible and can be transformed, moved up or down, duplicated, deleted, and more. And once you're ready to start organizing your ideas for that next big project, you can begin creating items from directly within the doc.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="how-to-use-monday.com" align="center"><a href="https://www.techrepublic.com/article/how-to-use-monday/"><strong>how-to-use-monday.com</strong></a>
+</h3>
+
+monday.com is a platform geared toward helping businesses better manage projects. That, of course, is only one aspect of the service. You’ll find it can also serve as a CRM, an ad campaign manager, bug tracking, customer project management and so much more. When you think of monday.com, you should really consider it more of a process manager than a task manager, because it can do so much more than your typical project management tool:
+
+- Project and task management | Marketing workflows | Finance requests | Sales | Design planning | Operations | IT requests | Recruitment pipelines
+
+#### What is monday.com work management
+
+Essentially, work management functions to help organizations achieve a much higher operational efficiency by helping you keep track of projects and workflows, visualize data and empower collaboration between teams.
+
+Work management tools make use of automation and third-party integration to achieve this, and monday.com’s work management platform does a brilliant job of bringing it all together to form a cohesive whole that will help your business in ways you might never have considered.
+
+#### How to use the monday.com work management workflow
+
+After you’ve [signed up for your monday.com account](https://mondaycom.grsm.io/3uhseotoqzq9), the first thing you must do is create a new workspace. A workspace is a centralized location that houses all the tools you need to manage your workflows.
+
+Once you sign up, you’ll need to walk through a wizard that will ask you several simple questions (Figure A). One such question asks what you’d like to focus on first. Remember, the first part of the question is important, as you can always make changes after you’ve set up your account.
+
+- Once you’ve finished the setup, you’ll find yourself in your new workspace on your new board
+- Once created, your new workspace will only include two views — what those views are will depend on the choices you made during the setup process
+- To add a new view, click + directly to the right of Timeline. This will open a drop-down list of other views you can add
+- You can then give that view a name or leave it as the default
+- Depending on your work management needs, you might need to add more views
+
+#### Multiple views
+
+Play around with adding and removing different views to set up the exact tools you need to satisfy your work management needs. You might find you only need one or two views or maybe your workflow requires the addition of all eight views and even a few additional apps. The important thing is that you customize your workspace to perfectly fit your management needs.
+
+One thing to keep in mind is some of the views can be further customized. For example, the Dashboard view allows you to add and remove widgets to create the perfect visualization of your workspace data. After adding the Dashboard view, click + Add Widget and select from the list of widgets to add to the view.
+
+One of the best views with which to start building your workflows is the Main Table. As you build your Main Table, it will fill out elements for the other views.
+
+The important thing to understanding how monday.com work management flows is that you must take the time upfront to not only construct your workspaces exactly as you need them but to customize the views such that they will best serve your workflows. By giving yourself ample time to build your workspace before you start adding team members, the management of your work will be considerably easier.
+
+At the same time, you’ll probably find as your projects and work continue to grow that you might need more than one workspace. You can create separate workspaces for each team or project and then customize those workspaces to better fit their needs.
+
+Once you’ve built those workspaces, it’s time to start inviting teammates for collaboration. Make sure you invite the correct teammates to the right workspaces. You can invite teammates by clicking Invite in the upper right corner of the workspace. Once the members have joined, you can start assigning them tasks and they can begin collaborating on the workflow.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="how-to-use-monday.com-for-project-management" align="center"><a href="https://everhour.com/blog/how-to-use-monday-for-project-management/"><strong>How to Use Monday.com for Project Management</strong></a>
+</h3>
+
+Teams use Monday for everything from software development and marketing to HR and operations. It is a large software with hundreds of thousands of business users, from smaller operations to companies like Electronic Arts, the National Hockey League, Universal Studios, and HubSpot.
+
+It has a CRM, marketing, development, and project management platforms. Monday is a massive software solution with many different utilities, and it can accommodate a range of integrations and uses. You can access it through the website or download it as an app for mobile or desktop.
+
+They offer a free plan, which heavily limits the features available and the number of people that can use it.
+
+#### How to Use Monday for Project Management
+
+- Organization: There are budgeting features, such as customizable planning sheets and cost calculators. You can enjoy collaborative features, like teammate task assignments and easy bi-directional communication that connects communication to all shareholders. There are also customizable dashboards that allow businesses to create shared sources of information
+- Management solutions: Monday tools improve communication and collaboration and allow businesses to monitor the status of projects, ensure that budgetary requirements are met, and drastically reduce the time spent on the organization. Teams can cut down on man-hours spent on projects while saving money by ensuring they don’t go over budget.
+- Data and visualization: Tools like the project dashboards are effective because they allow businesses to completely visualize their projects. Things like goals, underway or completed tasks, budgets, and schedules are all easily visible in one central place. The Monday project management software will also provide important data that is insightful and informative into business processes.
+- Lots of features: Other key features include templates that you can create and save. These create repeatable project structures that can be followed consistently, whether for the same client or across different projects. There are also great planning dashboards that allow teams to collaborate and develop clear plans of action. Teams can assign roles and access, set deadlines, make milestones, and generally have much more clarity going into projects.
+
+#### Cons of monday.com
+
+- Learning curve: it could take some businesses a significant amount of time to learn the ropes and fully implement this solution
+- Pricing plan: The Monday Pricing Plan can be expensive
+- Lacks time tracking features: it isn’t available on the standard plans with Monday - Everhour provides its own Monday time tracking integration to help you out
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="monday.com-tutorial-2022" align="center"><a href="https://www.cloudwards.net/monday-com-beginners-guide/"><strong>Monday.com Tutorial 2022</strong></a>
+</h3>
+
+Check out their [monday.com review](https://www.cloudwards.net/monday-com-review/)
+
+- head to the website and click the big “get started” button
+- After that, you’ll see a screen where you need to enter your email address
+- In the next screen, enter your full name, a password as well as your team’s name
+- After that is one more screen where monday.com will check what you’ll be using the software for, as well as the size of your team and what kind of business you’re in
+
+#### Getting Started with Monday.com
+
+Once you have your account set up and you’re in the interface, you’ll be greeted by helpful pop-ups. If you’re used to basic, free project management tools like Trello or Asana, then monday.com’s main table will be quite a shock at first. There are just so many more functions and options presented here that they can’t be jumbled together into a single coherent whole.
+
+However, this board serves mainly as a way for monday.com to showcase what it can do. It’s probably best to start very simply and just create a new board. To do so,
+
+- go to the top left of the screen and click the “add” button next to the “+” symbol in a circle
+- You’ll get a pop-up, in which you need to set a name for the new board and specify whether it’s a main board or a private one. This affects who can see and use it: “main” means anybody in the organization that’s already using monday.com, while “private” means it’s by invitation only
+- you’ll be met with a new screen that has two “groups” and five “tasks” filled in for you, so the board is not entirely blank
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Adding Groups to a Board
+
+...a “group” is a project I think, while a “task” will be a component of getting it done
+
+- To add a new group to the board, click on the blue arrow next to the box that says “new item” and select the option for “new group of items.”
+- The new group will pop up above your old ones and be untitled. We’ll rename it, then we want to move it to the bottom - you need to hover over the downward arrow to the left of the group’s name until an icon with two arrows shows up, as well as a little grid
+- Click and hold onto the grid, and a small menu will appear
+
+#### Adding Tasks to a Group
+
+There are two ways to do so: either by using the big blue button at the top that we used earlier, or by clicking on the “add” button in the task space below the group name.
+
+- group-specific options: Click the downward arrow next to the group name and watch the dropdown menu unfold
+- This menu is where you can collapse a specific group or collapse all of them, as well as create a new group or move it to another board.
+- You can also change a group’s color and rename the group
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Organizing Your Monday.com Board and Team
+
+With the groups in place, you can assign people to work on them, set dates and a lot more.
+
+- Columns: Organizing groups and tasks is done through columns
+- Groups come preloaded with columns though you can remove them and swap them out
+- To do so, hover over the name of the column and you’ll see a dropdown arrow appear
+- You can add checkmarks, item IDs for inventory and locations that can be linked to a map. You can even add interactive items like votes
+
+#### Teammates
+
+- First, you need to add them to the board. You can do this by going to the bottom left of the screen and hitting the silhouette with a “+” sign in the sidebar.
+- A pop-up will appear that lets you either invite people using a link or by sending an email
+- To assign people to a task, just go to the task you want to add people to and click on the silhouette.
+- A small window will appear with all the people assigned to the board
+- A colored circle with the person’s initials will appear where the silhouette was and they are officially assigned to the task
+- To remove somebody from a task, just click on the circle with their initials and then on the “x” behind their name in the window that pops up.
+- You can add and remove people from tasks as much as you want
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### Add Statuses and Dates
+
+Most columns work much the same way as the one for teammates does, with the main menu being in the title. The “status” is a bar that you can add to each task that gives you three preset statuses to pick from (“working on it,” “stuck” and “done”) with the option of adding your own as well. The bar at the bottom of each group of tasks will change color as you assign statuses.
+
+Just click on the field for the task you want to assign a date to and a calendar will pop up. You can also add a specific time if you’d like.
+
+#### The Monday.com Dashboard
+
+The best way to keep track of what’s happening on a board, especially if you have more than one, is by using a dashboard. To create a dashboard:
+
+- go to the “add” button on the left and pick “new dashboard”
+- You’ll be presented with a pop-up where you can add the new dasboard’s name and whether it’s public or private
+
+Once done, you’ll see your new blank dashboard. To make any use of it, you’ll need to add what monday.com calls “widgets,” which are mini-apps that will help you keep track of tasks, time or really anything you can think of. You’re presented with a few popular ones to get you started, but clicking on the “add widget” button will present you with a massive list.
+
+The real power of dashboards is unlocked when you’re using several boards simultaneously.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+#### How to Add Views to Monday.com
+
+Views are charts and other graphical representations of the groups and tasks you have set out. They will help you see what needs to happen when, and even make adjustments on the fly. To add views to a board:
+
+- go to the table view and click on the “main table” button at the top.
+- From there, click on “+ add view” and another window will unfold with all your options
+- If you click on “more views” at the bottom, the Views Center will load, and you get even more options
+
+_Kanban View_:
+
+Kanban boards are among the simplest yet most comprehensive ways to organize projects.
+
+- To get it working on monday.com, just go back to our “views” list and click on “kanban.” The kanban view will immediately pop up
+- To the right of the kanban board, you will find the settings for it, so whether you want to sort by status or person doing a task.
+- To see a view, you need to check the “divide by groups” button at the right of the screen, below the column filters. However, this clutters the view...
+- Another option is to use the “split view” button below “divide by groups” to give you both the kanban and the main table
+- the great thing about the kanban view is that you can easily move tasks around by simply picking them up and dropping them into a new column
+
+_Calendar_:
+
+... which sorts your tasks by date and colors each task according to its group. It’s a great way to see what is due when.
+
+- you can move tasks around in the calendar and the main table view will update accordingly, so if you see a date that doesn’t work for you, you can just move the task
+
+_Other Views_:
+
+- data-centric charts view, full project-management wizard, Gantt charts
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ## Trello
 
