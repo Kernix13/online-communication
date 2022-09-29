@@ -1,5 +1,7 @@
 ## Free Project Management Tools
 
+If you are not familiar with project management then these tools will not be easy to learn fast. I would only spend time learning them if you see them as bullet points in jobs openings that you apply to.
+
 <div id="back-to-top"></div>
 
 ## Table of Contents
