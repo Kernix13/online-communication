@@ -64,6 +64,7 @@ Below are programming opportunities for the tools in this repo:
 - [Dropbox API](): lets you add Dropbox features to your apps, such as file storage, sharing, previews, and search
 - [Figma API](https://www.figma.com/developers/api): read access and interactions with Figma files
 - [Confluence API](https://developer.atlassian.com/server/confluence/confluence-server-rest-api/): for admins who want to script interactions with Confluence Server and Data Center and developers who want to integrate with or build on top of the Confluence platform
+- [GitHub API](https://docs.github.com/en/rest)
 - [BitBucket API](https://developer.atlassian.com/cloud/bitbucket/rest/intro/)
 - [GitLab API](https://docs.gitlab.com/ee/api/)
 - [Asana API](https://developers.asana.com/docs): programmatic access to much of the data in the system
