@@ -17,12 +17,11 @@ If you are not familiar with project management then these tools will not be eas
    1. [How to Use Monday.com for Project Management](#how-to-use-monday.com-for-project-management)
    1. [Monday.com Tutorial 2022](#monday.com-tutorial-2022)
 1. [Trello](#trello)
-   1. [](#)
-   1. [](#)
-   1. [](#)
-   1. [](#)
-   1. [](#)
-   1. [](#)
+   1. [What is Trello and How To Use It](#what-is-trello-and-how-to-use-it)
+   1. [How to Use Trello for Project Management](#how-to-use-trello-for-project-management)
+   1. [How to Use Trello II](#how-to-use-trello-ii)
+   1. [How to Use Trello in 2022](#how-to-use-trello-in-2022)
+   1. [How to use Trello And Confluence](#how-to-use-trello-and-confluence)
 
 ## Asana
 
@@ -510,28 +509,145 @@ _Other Views_:
 
 ## Trello
 
-LINKS:
+<h3 id="what-is-trello-and-how-to-use-it" align="center"><a href="https://www.simplilearn.com/tutorials/project-management-tutorial/what-is-trello"><strong>What is Trello and How To Use It</strong></a>
+</h3>
 
-[How to use Trello](https://blog.trello.com/beginner-tips-for-using-trello)
+#### Key Features of Trello
 
--
+- Trello employs boards, cards, and lists for project management.
+- Subtasks within a card can be made with checklists.
+- Tasks can be allocated to several members, so they will be notified of any card changes.
+- The tasks can have deadlines included.
+- An​ activity log keeps the team up to date.
+- The inclusion of attachments enables the efficient organization of resources.
+- Its built-in automation, Butler, reduces the number of tedious tasks by harnessing the power of automation.
 
-[How To Use Trello And Confluence Together](https://blog.trello.com/trello-and-confluence-together-for-project-management)
+#### Integrations
 
--
+There are hundreds of Power-Ups/integrations available to make workflow seamless. Some of the popular ones include:
 
-[How to Use Trello in 2022](https://integrately.com/blog/how-to-use-trello)
+- Slack
+  Google Drive | GitHub | Telegram | Salesforce | IBM Connect | Twitter
 
--
+#### Trello Advantages
 
-[What is Trello and How To Use It](https://www.simplilearn.com/tutorials/project-management-tutorial/what-is-trello)
+- Trello can be used immediately after signing up. Trello offers a free sign-up, after which you get access to almost all of its features. It is also a premium service, though most of the important features are available with the free option.
+- Trello follows the Kanban system, which is a popular methodology used to achieve lean management. This means that you can also achieve lean with Trello.
+- It’s mobile-friendly. Trello’s interface looks very similar to a mobile application and is very user-friendly. It also has a very popular mobile application that has the same features available in the desktop application.
+- All project-related items can be seen on one page.
+- Adding new members, creating issues, and assigning them is easy to do.
 
--
+#### Sections skipped
 
-[How to Use Trello for Project Management](https://www.fool.com/the-ascent/small-business/project-management/articles/trello-project-management/)
+I basically skipped the rest of the article:
 
--
+- Sign up on Trello | Create a Board in Trello | Create a Team | Create Lists in Trello | Create Cards in Trello | Assigning Cards and Giving Due Dates | Add Labels to Cards | How to Search in Trello with Shortcuts | ...
 
-[How to use Trello for effective team communication](https://www.orahapps.com/resources/blog/how-to-use-trello-for-effective-team-communication)
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
--
+<h3 id="how-to-use-trello-for-project-management" align="center"><a href="https://www.fool.com/the-ascent/small-business/project-management/articles/trello-project-management/"><strong>How to Use Trello for Project Management</strong></a>
+</h3>
+
+Trello is a kanban-based collaboration and task management tool that is perfect for all kinds of projects or teams. This tool is an all-around great fit for most projects as long as your needs are not financial in nature because Trello doesn’t come with any budgeting or invoicing features. In my opinion, Trello is the easiest to use project management software on the market considering its list of features and the level of convenience worked into its design.
+
+#### 1. Setup your Trello project board and create task cards
+
+Trello has a fantastic onboarding and setup process, so be sure to take full advantage of it with your first project. The setup process begins by filling in fields that’ll create your board lists. These lists are the steps of completion in the project.
+
+These lists are where your tasks will live on the kanban board throughout the execution process. If at any point you have to add additional steps to your kanban board, all you have to do is scroll all the way to the right to create an additional list to move your task cards to.
+
+#### 2. Create task cards and assign them to relevant team members
+
+...it’s time to plan out your project and create the task cards...you can create tasks at any point in the workflow by clicking on the “Add another card” button at the bottom of any list. Otherwise, you’ll most likely add tasks to the first progress step on the kanban board.
+
+Once you click on this button the new task window will appear on the screen, allowing you to fill in the relevant project details, such as:
+
+- Due dates
+- Card cover photos
+- Descriptions
+- Users
+- Task comments
+- Labels, which categorize and prioritize your tasks by team, importance, function, etc.
+- Attachments, which can be files, images, documents, work breakdown structures, etc.
+
+In order to give you a better sense of task progress, be sure to create a checklist in the card that’ll also display a percentage completion so you’ll never be left in the dark while tracking the execution.
+
+Finally, you’ll want to add the team members responsible for these tasks to the card. All you have to do is click on “Members” on the right-hand menu while in any task window.
+
+Once you’ve added them to the task, these users will receive all project notifications, including comments, changes, and every time a card is moved along from one step to the next.
+
+#### 3. Move the Trello cards along the board as steps are completed
+
+As you move through the execution phase of your project, all you’ll have to do is drag and drop your tasks into each step of the process from the planning phase to completion.
+
+#### 4. Close out the project upon completion
+
+Once you’ve completed all of the tasks in your project it’s time to close out your project and perform your post-project analysis to find out how your team did, what you learned, and what you could do better in the future...you can put together a post-project report to present to your team and the project stakeholders
+
+#### Top 5 features for Trello project management
+
+1. Kanban task management
+2. Card search
+3. Card cover photos
+4. Automation functions
+5. Task card checklists
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="how-to-use-trello-ii" align="center"><a href="https://www.orahapps.com/resources/blog/how-to-use-trello-for-effective-team-communication"><strong>How to Use Trello II</strong></a>
+</h3>
+
+#### Visual Cues
+
+- Assign members to Trello cards - who is responsible for this particular task so if anyone has questions, they know who to go to. There’s no point in having lots of tasks with no accountability.
+- Use labels - Use the different coloured labels to easily categorise the cards however you choose. Whether that’s by its current progress status, the sprint name or the team it’s associated with. At a quick glance, this should help people to find or filter the exact cards they need with ease.
+- Dates - How urgent is the task and when is it due? Having visible dates makes calendar view much easier, and can help prompt the rest of the team to start thinking about it or to help keep each other on track with timelines.
+- Checklists - For those that like to plan down to the finer details, you’ll probably be using the checklists to tick off each micro-tasks. Not only will it help keep the person responsible on track but also help others see how far along you have gotten with that particular Trello card.
+
+#### Export your Trello board for meetings
+
+Cross-team communication is just as important as inter-team communication as it fosters information and idea-sharing, therefore, cultivating innovation. This is where [Board Export for Trello](https://www.orahapps.com/board-export-for-trello) becomes very handy. Give a snapshot in time update to stakeholders without drowning the meeting with details.
+
+#### Thread comments in Trello for effective communication
+
+In instances where you need someone else’s input or you want to keep another person updated, you’ll want to comment on your card to let the person know.
+
+For those who are already regular users of Trello, you’ll find the comments section may not be as intuitive as you need it to be, especially if there are multiple points of discussion. And if you’re used to using something like Slack, then it definitely won’t be up to par as there’s no way to reply directly to specific comments, leaving you with a chaotic comments section.
+
+[Threaded Comments for Trello](https://www.orahapps.com/threaded-comments-for-trello) is our recently released Power-Up that will help you and your team communicate with clarity. Gone are the days of stacked and confusing comments. You can now have multiple discussions within one card without spending lots of time deciphering which messages relate to which.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="how-to-use-trello-in-2022" align="center"><a href="https://integrately.com/blog/how-to-use-trello"><strong>How to Use Trello in 2022</strong></a>
+</h3>
+
+> THIS IS A REALLY LONG ARTICLE AND I'M GETTING BORED....
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="how-to-use-trello-and-confluence" align="center"><a href="https://blog.trello.com/trello-and-confluence-together-for-project-management"><strong>How to use Trello And Confluence</strong></a>
+</h3>
+
+Trello & Confluence used together make for better planning. You can use Confluence to craft an overarching vision, and Trello to organize that vision into bite-sized tasks.
+
+#### How To Sync Trello And Confluence Together
+
+The basic step is simple: go to the URL of your Trello card and copy it. Paste it onto a Confluence page. You should watch it to make sure it automatically renders a card once the page publishes. From there, still using Confluence, you can:
+
+- View card and task statuses
+- Comment on cards
+- Subscribe for email updates on any changes
+- Join cards
+- View more info in the card just by clicking, which will take you into Trello—where you can edit the card, just like you’re used to doing
+
+You can also paste a link directly into your Trello board and watch as it displays a new board tile. This tile gives you an overview of the link you pasted. From there, you can link any documentation you need with Confluence. If the team needs to update anything, they can easily do so within the tile on Trello.
+
+#### Tips For Using Trello And Confluence Together
+
+Here are some tips you can keep in mind:
+
+- Put your files in Confluence. Trello’s kanban system is handy for reference, while you can use Confluence as a knowledge base for the major materials and files that govern your project. When it comes time to update a Trello card, anyone collaborating on the Trello board can do exactly that—and it will update to Confluence as well.
+- Add your Trello board to the “project planning” stages. This way, anyone who needs to see where things stand can do so quickly. This gives them the total view: not only do they see the major milestones you’ve hit, but your current status with individual tasks in Trello.
+- Create a “Trello board” macro within Confluence for a fully-interactive Trello board. Say you “miss” the experience you get from your Trello board. Good news: you don’t have to say goodbye! Just select the “+” sign and ‘Trello Board’ within Confluence, pasting in your board’s URL. You can choose the height of the board as it appears within Confluence, and voila—you’re looking at Trello within Confluence, almost like you have a window between two applications.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
