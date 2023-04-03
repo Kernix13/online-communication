@@ -133,7 +133,7 @@ Of course, like any other tool available today, GitLab comes with its own share 
 
 Git is a free and open-source distributed version control system that allows developers to handle everything from small to very large projects with top speed and efficiency. Its goals include data integrity, speed, and support for distributed, non-linear workflows, which essentially means multiple people can work together on the same code without hindering the other’s progress.
 
-#### Basic sections in the artile
+#### Basic sections in the article
 
 I'm skipping the following sections because they are basic:
 
@@ -237,6 +237,15 @@ Creating a new issue | Leaving comments | Writing on the project wall | Pulling 
 - Code Quality (Code Climate)
 - ChatOp tool (Mattermost)
 - Service Desk (ticketing system)
+
+### My GitLab notes
+
+**TERMS**:
+
+- _Project_: is a Git repository that has built-in CI/CD functtionality, issue tracking, collaboration tools, or just a "repo".
+- _Member_: Users or groups that have access to a GitLab project/repo. The members have roles which have permissions.
+- _Merge Requests_: Request to merge a branch into another branch, so like Pull Requests.
+- _Issue_: Same as issues on GitHub
 
 ## Bitbucket
 
