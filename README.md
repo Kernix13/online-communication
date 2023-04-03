@@ -56,7 +56,7 @@ Design:
 Below are programming opportunities for the tools in this repo:
 
 - [Google Chat REST API](https://developers.google.com/chat/api/guides/rest-api): provides programmatic, RESTful access to Chat resources like messages, spaces, and attachments
-- Discord Bots: the bots are written in Python
+- [Discord Bots](https://discord.com/developers/docs/intro): the bots are written in Python
 - [Discord API](https://discord.com/developers/docs/reference): based around two core layers, a HTTPS/REST API for general operations, and persistent secure WebSocket based connection for sending and subscribing to real-time events
 - [Calendly API](https://developer.calendly.com/getting-started): three APIs to integrate Calendly into your application
 - [Slack API](https://api.slack.com/methods): The Slack platform lets you extend, expand, and automate your workspaces
