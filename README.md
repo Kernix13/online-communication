@@ -61,7 +61,7 @@ Below are programming opportunities for the tools in this repo:
 - [Calendly API](https://developer.calendly.com/getting-started): three APIs to integrate Calendly into your application
 - [Slack API](https://api.slack.com/methods): The Slack platform lets you extend, expand, and automate your workspaces
 - [Zoom API](https://zoom.github.io/api/): provides the ability for developers to easily add Video, Voice and Screen Sharing to your application. Page redirects to [Introduction to Zoom API](https://marketplace.zoom.us/docs/api-reference/introduction/) when you move to a different tab or window.
-- [Dropbox API](): lets you add Dropbox features to your apps, such as file storage, sharing, previews, and search
+- [Dropbox API](https://www.dropbox.com/developers/documentation/http/documentation): lets you add Dropbox features to your apps, such as file storage, sharing, previews, and search
 - [Figma API](https://www.figma.com/developers/api): read access and interactions with Figma files
 - [Confluence API](https://developer.atlassian.com/server/confluence/confluence-server-rest-api/): for admins who want to script interactions with Confluence Server and Data Center and developers who want to integrate with or build on top of the Confluence platform
 - [GitHub API](https://docs.github.com/en/rest)
