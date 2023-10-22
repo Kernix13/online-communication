@@ -23,8 +23,8 @@ If you are not familiar with project management then these tools will not be eas
    1. [How to Use Trello in 2022](#how-to-use-trello-in-2022)
    1. [How to use Trello And Confluence](#how-to-use-trello-and-confluence)
 1. [Airtable](#airtable)
-   1. Link 1
-   1. Link 2
+   1. [VIDEO How to use Airtable](#video-how-to-use-airtable)
+   1. [VIDEO A Beginners Guide to Airtable](#video-a-beginners-guide-to-airtable)
    1. Link 3
 
 ## Asana
@@ -658,6 +658,95 @@ Here are some tips you can keep in mind:
 
 ## Airtable
 
-- Nothing here yet...
+<h3 id="video-how-to-use-airtable" align="center"><a href="https://youtu.be/mHzYaiQz2jM?si=fxF33Gn4g5FWCV0J"><strong>VIDEO How to use Airtable</strong></a>
+</h3>
+
+It seems to be more of a database than a collaboration tool.
+
+- They have a free plan
+- My First Workspace - workspace is where you manage a group of databases
+- you can 1) Start from scratch, 2) upload into a database, 3) start with templates
+- Rename your workspace - "Client Projects"
+- click Start from scratch - that takes you into the Database
+- in the DB you have tables used to group rows similar to a spreadsheet (MySQL)
+- you can create multiple tables
+- Views: Kanban, Calendar, ...
+- Extensions: to analyze your data, visual dashboards - e.g., pivot table
+- Automations: select a trigger like email or Slack message -
+- Columns: you can add cols and you can have them with formulas
+- Add user: click Share to top bar > make sure you have "Base" > you can invite by email or with a link - the free plan allows up to 5 collaborators with Creator or Editor roles - the other roles are unlimited
+- you can have different views like Kanban or Calendar
+- Airtable uses relational database so you can link databases -
+- Integrations: 3rd-party tools - GitHub, Google Drive, FB Pages, Slack, ...
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<h3 id="video-how-to-use-airtable" align="center"><a href="https://youtu.be/mHzYaiQz2jM?si=fxF33Gn4g5FWCV0J"><strong>VIDEO A Beginners Guide to Airtable</strong></a>
+</h3>
+
+5 Foundational components to understanding Airtable
+
+1. Everything is organized in Wordspaces
+
+- a workspace is essentially a folder for databases
+- free plan has unlimited DBs per workspace
+- `Base` = database
+- every workspace has its own paid tier - like having apps or more records
+- Record count is the most common reason to upgrade
+- you can have pro and free workspaces
+- you can import data from Excel, Google Sheets, a CSV file, ...
+
+Example:
+
+- `Clients` > `Services` provided to the clients > `Invoices` for those clients
+- So first build a clients table - that will give you a tab at the top
+- like a spreadsheet, the columns are fields like client name, client address, client email, etc and each field accepts a certain data type
+- you can delete the default fields/columns and add you own
+- create more tables as you need them, e.g. "Services" with rows of Service 1, Service 2, etc
+- you can link one table to another by typing the table name while in another table, e.g. typing Clients while in the Services table
+
+**NOTE**: the leftmost field is called the "Primary Field" - basically an ID field so make sure it is unique for every record
+
+#### Junction table
+
+- how you want to link tables like to invoice clients
+- at 14:30 create a table named "Invoice Detail" - link to "Services" and to "Invoices" and turn off "Allow multiple records" for both
+- you want each record to represent a differeent line item on the invoice
+- something about "grouping"
+
+Lookups and Rollup field types
+
+- "Lookup" a price which lives in the Services table - `Lookup` is the field type you want to use
+- "Rollup": used to sum individual line items in an invoice to get the total for the invoice
+
+> You need `{ }` if your frield name has spaces
+
+Formulas:
+
+1.  `CONCATENATE({var1}, ' ', {var2})`:
+2.  `SUM(values)`:
+
+Developers API docs: https://airtable.com/developers/web/api/introduction
+Developer scripts: https://airtable.com/developers/scripting
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+<!--
+
+## Salesforce
+
+- Main site: https://www.salesforce.com/
+- For devs: https://developer.salesforce.com/
+- For devs (Docs): https://developer.salesforce.com/docs
+- For devs (GraphQL API): https://developer.salesforce.com/docs/apis
+
+CRM: Customer relationship management (CRM) is a technology for managing all your company’s relationships and interactions with customers and potential customers
+
+### Try for free
+
+- 30 day trial - some fields to fill out like email and ph #
+- Getting an "includes" error in the console as part of a filter method so I can't "Try for free"
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+-->
