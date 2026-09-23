@@ -22,9 +22,11 @@ I am only including detailed notes for Figma, Lunacy, and Penpot.
    1. [Free open source prototyping platform](#free-open-source-prototyping-platform)
    1. [Penpot on GitHub](#penpot-on-github)
 1. [InVision](#invision)
-1. [Sketch](#sketch)
+1. [Sketch](#sketch) - consider removing because it is no longer free.
 
 I'll provide links for Sketch and InVision but Figma is the best option. There are other design resources, but you can't go wrong with Figma.
+
+> Remove InVision: InVision announced that its collaborative whiteboard and design collaboration products were being sunset, and the company subsequently discontinued its services
 
 ## Figma
 

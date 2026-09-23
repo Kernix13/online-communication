@@ -41,6 +41,8 @@ Discord tends to be used on a personal basis whereas Slack is more commonly used
    1. [How to activate google chat](#how-to-activate-google-chat)
    1. [Google Chat REST API](#google-chat-rest-api)
 
+> Get rid of Google Hangouts and replace with Google Meet.
+
 ## Discord
 
 You can download a desktop version, or use the [online website option](https://discord.com/login). Note a **server** is the term for your Discord account where you can invite people to join.

@@ -1,6 +1,6 @@
 # Best Free Calendars
 
-Calendars are used to schedule events or to-do items. As a communication tool, they can also be used to invite team members to a text chat (Discord, Slack), voice chat (Discord), or Vvideo chat (Zoom, Google Spaces). You are also able to set remimders of any/all items in your calendar.
+Calendars are used to schedule events or to-do items. As a communication tool, they can also be used to invite team members to a text chat (Discord, Slack), voice chat (Discord), or video chat (Zoom, Google Meet). You are also able to set remimders of any/all items in your calendar.
 
 <div id="back-to-top"></div>
 
@@ -18,6 +18,10 @@ Calendars are used to schedule events or to-do items. As a communication tool, t
    1. [What Is Calendly and How Do You Get Started](#what-is-calendly-and-how-do-you-get-started)
    1. [How to Use Calendly to Schedule Meetings](#how-to-use-calendly-to-schedule-meetings)
    1. [The Ultimate Guide to Calendly](#the-ultimate-guide-to-calendly)
+
+Consider adding:
+
+- Zoho Calendar
 
 <div id="back-to-top"></div>
 

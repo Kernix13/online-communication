@@ -14,6 +14,8 @@
    1. [Confluence Tutorial For Beginners](#confluence-tutorial-for-beginners)
    1. [Project collaboration using Confluence](#project-collaboration-using-confluence)
 
+> Consider adding WeTransfer (sending files to other people without giving them access to your cloud storage)
+
 ## Google docs
 
 Google Docs is partially covered in the Google Drive section in the Cloud Storage file, bt here I go into more detail. And of course, they have more than just docs.

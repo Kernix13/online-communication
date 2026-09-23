@@ -22,6 +22,8 @@ Free cloud storage and document sharing apps.
    1. [How to use Dropbox for team collaboration](#how-to-use-dropbox-for-team-collaboration)
    1. [What is Dropbox and how to use it](#what-is-dropbox-and-how-to-use-it)
 
+> Consider adding Apple iCloud Drive
+
 ## Google drive
 
 <h3 id="how-to-use-google-drive" align="center"><a href="https://www.androidauthority.com/how-to-use-google-drive-860193/"><strong>How to use Google Drive</strong></a>

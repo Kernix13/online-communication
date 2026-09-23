@@ -27,6 +27,18 @@ If you are not familiar with project management then these tools will not be eas
    1. [VIDEO A Beginners Guide to Airtable](#video-a-beginners-guide-to-airtable)
    1. Link 3
 
+> Consider adding, Clickup, Jira, and Notion.
+
+<!-- ```
+Jira → software development / issue tracking / Agile project management
+Trello → visual boards and simpler project/task management
+Asana → general team/project management
+Monday.com → general work/project management
+ClickUp → broader all-in-one work/project management
+Notion → documentation + databases + notes + project/task management
+Airtable → spreadsheet/database hybrid that can also be used for project management
+``` -->
+
 ## Asana
 
 <h3 id="beginners-guide-on-how-to-use-asana" align="center"><a href="https://www.techrepublic.com/article/how-to-use-asana/"><strong>Beginners Guide on How to use Asana</strong></a>
